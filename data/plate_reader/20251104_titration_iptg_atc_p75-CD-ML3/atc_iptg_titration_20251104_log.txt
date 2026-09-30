@@ -1,0 +1,2292 @@
+Time	Step Name	Message
+04/11/2025 16:41:02		Workflow started
+04/11/2025 16:41:02	Set Temperature	Started.
+04/11/2025 16:41:02	Set Temperature	Settings instrument temperature to 37°C.
+04/11/2025 16:41:05	Set Temperature	Finished.
+04/11/2025 16:41:05	Read	Started.
+04/11/2025 16:41:05	Read	Starting experiment "OD700_Start" section "Plate1" read.
+04/11/2025 16:41:43	Read	Finishing read, waiting for instrument to idle
+04/11/2025 16:41:45	Read	Finished read.
+04/11/2025 16:41:45	Read	Finished.
+04/11/2025 16:41:45	Read	Started.
+04/11/2025 16:41:45	Read	Starting experiment "GFP750_Start" section "Plate1" read.
+04/11/2025 16:43:37	Read	Finishing read, waiting for instrument to idle
+04/11/2025 16:43:39	Read	Finished read.
+04/11/2025 16:43:39	Read	Finished.
+04/11/2025 16:43:39	Cycle	Started 91 cycle(s) with a 00:10:00 interval between each cycle.
+04/11/2025 16:43:39	Cycle	Started cycle 1 out of 91.
+04/11/2025 16:43:46	Shake	Started.
+04/11/2025 16:43:46	Shake	Shaking for 200 seconds.
+04/11/2025 16:47:12	Shake	Finished.
+04/11/2025 16:47:12	Read	Started.
+04/11/2025 16:47:12	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 16:47:47	Read	Finishing read, waiting for instrument to idle
+04/11/2025 16:47:49	Read	Finished read.
+04/11/2025 16:47:49	Read	Finished.
+04/11/2025 16:47:49	Read	Started.
+04/11/2025 16:47:49	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 16:49:03	Read	Finishing read, waiting for instrument to idle
+04/11/2025 16:49:05	Read	Finished read.
+04/11/2025 16:49:05	Read	Finished.
+04/11/2025 16:49:05	Read	Started.
+04/11/2025 16:49:05	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 16:50:17	Read	Finishing read, waiting for instrument to idle
+04/11/2025 16:50:19	Read	Finished read.
+04/11/2025 16:50:19	Read	Finished.
+04/11/2025 16:50:19	Read	Started.
+04/11/2025 16:50:19	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 16:51:29	Read	Finishing read, waiting for instrument to idle
+04/11/2025 16:51:31	Read	Finished read.
+04/11/2025 16:51:31	Read	Finished.
+04/11/2025 16:51:31	Cycle	Started cycle remaining delay of 00:02:07. Scheduled to resume at 04/11/2025 16:53:39.
+04/11/2025 16:53:39	Cycle	Started cycle 2 out of 91.
+04/11/2025 16:53:39	Shake	Started.
+04/11/2025 16:53:39	Shake	Shaking for 200 seconds.
+04/11/2025 16:57:05	Shake	Finished.
+04/11/2025 16:57:05	Read	Started.
+04/11/2025 16:57:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 16:57:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 16:57:44	Read	Finished read.
+04/11/2025 16:57:44	Read	Finished.
+04/11/2025 16:57:44	Read	Started.
+04/11/2025 16:57:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 16:58:57	Read	Finishing read, waiting for instrument to idle
+04/11/2025 16:58:59	Read	Finished read.
+04/11/2025 16:58:59	Read	Finished.
+04/11/2025 16:58:59	Read	Started.
+04/11/2025 16:58:59	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 17:00:10	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:00:12	Read	Finished read.
+04/11/2025 17:00:12	Read	Finished.
+04/11/2025 17:00:12	Read	Started.
+04/11/2025 17:00:12	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 17:01:24	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:01:26	Read	Finished read.
+04/11/2025 17:01:26	Read	Finished.
+04/11/2025 17:01:26	Cycle	Started cycle remaining delay of 00:02:13. Scheduled to resume at 04/11/2025 17:03:39.
+04/11/2025 17:03:39	Cycle	Started cycle 3 out of 91.
+04/11/2025 17:03:39	Shake	Started.
+04/11/2025 17:03:39	Shake	Shaking for 200 seconds.
+04/11/2025 17:07:05	Shake	Finished.
+04/11/2025 17:07:05	Read	Started.
+04/11/2025 17:07:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 17:07:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:07:44	Read	Finished read.
+04/11/2025 17:07:44	Read	Finished.
+04/11/2025 17:07:44	Read	Started.
+04/11/2025 17:07:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 17:09:00	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:09:02	Read	Finished read.
+04/11/2025 17:09:02	Read	Finished.
+04/11/2025 17:09:02	Read	Started.
+04/11/2025 17:09:02	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 17:10:13	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:10:15	Read	Finished read.
+04/11/2025 17:10:15	Read	Finished.
+04/11/2025 17:10:15	Read	Started.
+04/11/2025 17:10:15	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 17:11:26	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:11:28	Read	Finished read.
+04/11/2025 17:11:28	Read	Finished.
+04/11/2025 17:11:28	Cycle	Started cycle remaining delay of 00:02:11. Scheduled to resume at 04/11/2025 17:13:39.
+04/11/2025 17:13:39	Cycle	Started cycle 4 out of 91.
+04/11/2025 17:13:39	Shake	Started.
+04/11/2025 17:13:39	Shake	Shaking for 200 seconds.
+04/11/2025 17:17:06	Shake	Finished.
+04/11/2025 17:17:06	Read	Started.
+04/11/2025 17:17:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 17:17:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:17:43	Read	Finished read.
+04/11/2025 17:17:43	Read	Finished.
+04/11/2025 17:17:43	Read	Started.
+04/11/2025 17:17:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 17:18:56	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:18:59	Read	Finished read.
+04/11/2025 17:18:59	Read	Finished.
+04/11/2025 17:18:59	Read	Started.
+04/11/2025 17:18:59	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 17:20:14	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:20:16	Read	Finished read.
+04/11/2025 17:20:16	Read	Finished.
+04/11/2025 17:20:16	Read	Started.
+04/11/2025 17:20:16	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 17:21:27	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:21:29	Read	Finished read.
+04/11/2025 17:21:29	Read	Finished.
+04/11/2025 17:21:29	Cycle	Started cycle remaining delay of 00:02:10. Scheduled to resume at 04/11/2025 17:23:39.
+04/11/2025 17:23:39	Cycle	Started cycle 5 out of 91.
+04/11/2025 17:23:39	Shake	Started.
+04/11/2025 17:23:39	Shake	Shaking for 200 seconds.
+04/11/2025 17:27:05	Shake	Finished.
+04/11/2025 17:27:05	Read	Started.
+04/11/2025 17:27:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 17:27:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:27:43	Read	Finished read.
+04/11/2025 17:27:43	Read	Finished.
+04/11/2025 17:27:43	Read	Started.
+04/11/2025 17:27:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 17:28:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:29:01	Read	Finished read.
+04/11/2025 17:29:01	Read	Finished.
+04/11/2025 17:29:01	Read	Started.
+04/11/2025 17:29:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 17:30:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:30:14	Read	Finished read.
+04/11/2025 17:30:14	Read	Finished.
+04/11/2025 17:30:14	Read	Started.
+04/11/2025 17:30:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 17:31:24	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:31:26	Read	Finished read.
+04/11/2025 17:31:26	Read	Finished.
+04/11/2025 17:31:26	Cycle	Started cycle remaining delay of 00:02:13. Scheduled to resume at 04/11/2025 17:33:39.
+04/11/2025 17:33:39	Cycle	Started cycle 6 out of 91.
+04/11/2025 17:33:39	Shake	Started.
+04/11/2025 17:33:39	Shake	Shaking for 200 seconds.
+04/11/2025 17:37:06	Shake	Finished.
+04/11/2025 17:37:06	Read	Started.
+04/11/2025 17:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 17:37:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:37:44	Read	Finished read.
+04/11/2025 17:37:44	Read	Finished.
+04/11/2025 17:37:44	Read	Started.
+04/11/2025 17:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 17:39:00	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:39:02	Read	Finished read.
+04/11/2025 17:39:02	Read	Finished.
+04/11/2025 17:39:02	Read	Started.
+04/11/2025 17:39:02	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 17:40:13	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:40:15	Read	Finished read.
+04/11/2025 17:40:15	Read	Finished.
+04/11/2025 17:40:15	Read	Started.
+04/11/2025 17:40:15	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 17:41:30	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:41:33	Read	Finished read.
+04/11/2025 17:41:33	Read	Finished.
+04/11/2025 17:41:33	Cycle	Started cycle remaining delay of 00:02:06. Scheduled to resume at 04/11/2025 17:43:39.
+04/11/2025 17:43:39	Cycle	Started cycle 7 out of 91.
+04/11/2025 17:43:39	Shake	Started.
+04/11/2025 17:43:39	Shake	Shaking for 200 seconds.
+04/11/2025 17:47:06	Shake	Finished.
+04/11/2025 17:47:06	Read	Started.
+04/11/2025 17:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 17:47:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:47:44	Read	Finished read.
+04/11/2025 17:47:44	Read	Finished.
+04/11/2025 17:47:44	Read	Started.
+04/11/2025 17:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 17:48:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:49:01	Read	Finished read.
+04/11/2025 17:49:01	Read	Finished.
+04/11/2025 17:49:01	Read	Started.
+04/11/2025 17:49:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 17:50:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:50:14	Read	Finished read.
+04/11/2025 17:50:14	Read	Finished.
+04/11/2025 17:50:14	Read	Started.
+04/11/2025 17:50:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 17:51:25	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:51:27	Read	Finished read.
+04/11/2025 17:51:27	Read	Finished.
+04/11/2025 17:51:27	Cycle	Started cycle remaining delay of 00:02:12. Scheduled to resume at 04/11/2025 17:53:39.
+04/11/2025 17:53:39	Cycle	Started cycle 8 out of 91.
+04/11/2025 17:53:39	Shake	Started.
+04/11/2025 17:53:39	Shake	Shaking for 200 seconds.
+04/11/2025 17:57:05	Shake	Finished.
+04/11/2025 17:57:05	Read	Started.
+04/11/2025 17:57:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 17:57:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:57:43	Read	Finished read.
+04/11/2025 17:57:43	Read	Finished.
+04/11/2025 17:57:43	Read	Started.
+04/11/2025 17:57:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 17:58:58	Read	Finishing read, waiting for instrument to idle
+04/11/2025 17:59:00	Read	Finished read.
+04/11/2025 17:59:00	Read	Finished.
+04/11/2025 17:59:00	Read	Started.
+04/11/2025 17:59:00	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 18:00:11	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:00:13	Read	Finished read.
+04/11/2025 18:00:13	Read	Finished.
+04/11/2025 18:00:13	Read	Started.
+04/11/2025 18:00:13	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 18:01:24	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:01:26	Read	Finished read.
+04/11/2025 18:01:26	Read	Finished.
+04/11/2025 18:01:26	Cycle	Started cycle remaining delay of 00:02:13. Scheduled to resume at 04/11/2025 18:03:39.
+04/11/2025 18:03:39	Cycle	Started cycle 9 out of 91.
+04/11/2025 18:03:39	Shake	Started.
+04/11/2025 18:03:39	Shake	Shaking for 200 seconds.
+04/11/2025 18:07:05	Shake	Finished.
+04/11/2025 18:07:05	Read	Started.
+04/11/2025 18:07:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 18:07:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:07:43	Read	Finished read.
+04/11/2025 18:07:43	Read	Finished.
+04/11/2025 18:07:43	Read	Started.
+04/11/2025 18:07:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 18:08:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:09:01	Read	Finished read.
+04/11/2025 18:09:01	Read	Finished.
+04/11/2025 18:09:01	Read	Started.
+04/11/2025 18:09:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 18:10:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:10:14	Read	Finished read.
+04/11/2025 18:10:14	Read	Finished.
+04/11/2025 18:10:14	Read	Started.
+04/11/2025 18:10:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 18:11:25	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:11:27	Read	Finished read.
+04/11/2025 18:11:27	Read	Finished.
+04/11/2025 18:11:27	Cycle	Started cycle remaining delay of 00:02:12. Scheduled to resume at 04/11/2025 18:13:39.
+04/11/2025 18:13:39	Cycle	Started cycle 10 out of 91.
+04/11/2025 18:13:39	Shake	Started.
+04/11/2025 18:13:39	Shake	Shaking for 200 seconds.
+04/11/2025 18:17:05	Shake	Finished.
+04/11/2025 18:17:05	Read	Started.
+04/11/2025 18:17:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 18:17:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:17:43	Read	Finished read.
+04/11/2025 18:17:43	Read	Finished.
+04/11/2025 18:17:43	Read	Started.
+04/11/2025 18:17:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 18:18:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:19:01	Read	Finished read.
+04/11/2025 18:19:01	Read	Finished.
+04/11/2025 18:19:01	Read	Started.
+04/11/2025 18:19:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 18:20:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:20:14	Read	Finished read.
+04/11/2025 18:20:14	Read	Finished.
+04/11/2025 18:20:14	Read	Started.
+04/11/2025 18:20:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 18:21:25	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:21:27	Read	Finished read.
+04/11/2025 18:21:27	Read	Finished.
+04/11/2025 18:21:27	Cycle	Started cycle remaining delay of 00:02:12. Scheduled to resume at 04/11/2025 18:23:39.
+04/11/2025 18:23:39	Cycle	Started cycle 11 out of 91.
+04/11/2025 18:23:39	Shake	Started.
+04/11/2025 18:23:39	Shake	Shaking for 200 seconds.
+04/11/2025 18:27:05	Shake	Finished.
+04/11/2025 18:27:05	Read	Started.
+04/11/2025 18:27:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 18:27:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:27:44	Read	Finished read.
+04/11/2025 18:27:44	Read	Finished.
+04/11/2025 18:27:44	Read	Started.
+04/11/2025 18:27:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 18:28:57	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:28:59	Read	Finished read.
+04/11/2025 18:28:59	Read	Finished.
+04/11/2025 18:28:59	Read	Started.
+04/11/2025 18:28:59	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 18:30:09	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:30:12	Read	Finished read.
+04/11/2025 18:30:12	Read	Finished.
+04/11/2025 18:30:12	Read	Started.
+04/11/2025 18:30:12	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 18:31:22	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:31:24	Read	Finished read.
+04/11/2025 18:31:24	Read	Finished.
+04/11/2025 18:31:24	Cycle	Started cycle remaining delay of 00:02:15. Scheduled to resume at 04/11/2025 18:33:39.
+04/11/2025 18:33:39	Cycle	Started cycle 12 out of 91.
+04/11/2025 18:33:39	Shake	Started.
+04/11/2025 18:33:39	Shake	Shaking for 200 seconds.
+04/11/2025 18:37:05	Shake	Finished.
+04/11/2025 18:37:05	Read	Started.
+04/11/2025 18:37:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 18:37:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:37:44	Read	Finished read.
+04/11/2025 18:37:44	Read	Finished.
+04/11/2025 18:37:44	Read	Started.
+04/11/2025 18:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 18:38:58	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:39:00	Read	Finished read.
+04/11/2025 18:39:00	Read	Finished.
+04/11/2025 18:39:00	Read	Started.
+04/11/2025 18:39:00	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 18:40:11	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:40:13	Read	Finished read.
+04/11/2025 18:40:13	Read	Finished.
+04/11/2025 18:40:13	Read	Started.
+04/11/2025 18:40:13	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 18:41:24	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:41:26	Read	Finished read.
+04/11/2025 18:41:26	Read	Finished.
+04/11/2025 18:41:26	Cycle	Started cycle remaining delay of 00:02:13. Scheduled to resume at 04/11/2025 18:43:39.
+04/11/2025 18:43:39	Cycle	Started cycle 13 out of 91.
+04/11/2025 18:43:39	Shake	Started.
+04/11/2025 18:43:39	Shake	Shaking for 200 seconds.
+04/11/2025 18:47:05	Shake	Finished.
+04/11/2025 18:47:05	Read	Started.
+04/11/2025 18:47:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 18:47:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:47:43	Read	Finished read.
+04/11/2025 18:47:43	Read	Finished.
+04/11/2025 18:47:43	Read	Started.
+04/11/2025 18:47:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 18:48:58	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:49:00	Read	Finished read.
+04/11/2025 18:49:00	Read	Finished.
+04/11/2025 18:49:00	Read	Started.
+04/11/2025 18:49:00	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 18:50:10	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:50:12	Read	Finished read.
+04/11/2025 18:50:12	Read	Finished.
+04/11/2025 18:50:12	Read	Started.
+04/11/2025 18:50:12	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 18:51:23	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:51:25	Read	Finished read.
+04/11/2025 18:51:25	Read	Finished.
+04/11/2025 18:51:25	Cycle	Started cycle remaining delay of 00:02:14. Scheduled to resume at 04/11/2025 18:53:39.
+04/11/2025 18:53:39	Cycle	Started cycle 14 out of 91.
+04/11/2025 18:53:39	Shake	Started.
+04/11/2025 18:53:39	Shake	Shaking for 200 seconds.
+04/11/2025 18:57:05	Shake	Finished.
+04/11/2025 18:57:05	Read	Started.
+04/11/2025 18:57:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 18:57:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:57:43	Read	Finished read.
+04/11/2025 18:57:43	Read	Finished.
+04/11/2025 18:57:43	Read	Started.
+04/11/2025 18:57:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 18:58:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 18:59:01	Read	Finished read.
+04/11/2025 18:59:01	Read	Finished.
+04/11/2025 18:59:01	Read	Started.
+04/11/2025 18:59:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 19:00:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:00:14	Read	Finished read.
+04/11/2025 19:00:14	Read	Finished.
+04/11/2025 19:00:14	Read	Started.
+04/11/2025 19:00:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 19:01:25	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:01:27	Read	Finished read.
+04/11/2025 19:01:27	Read	Finished.
+04/11/2025 19:01:27	Cycle	Started cycle remaining delay of 00:02:12. Scheduled to resume at 04/11/2025 19:03:39.
+04/11/2025 19:03:39	Cycle	Started cycle 15 out of 91.
+04/11/2025 19:03:39	Shake	Started.
+04/11/2025 19:03:39	Shake	Shaking for 200 seconds.
+04/11/2025 19:07:06	Shake	Finished.
+04/11/2025 19:07:06	Read	Started.
+04/11/2025 19:07:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 19:07:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:07:44	Read	Finished read.
+04/11/2025 19:07:44	Read	Finished.
+04/11/2025 19:07:44	Read	Started.
+04/11/2025 19:07:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 19:08:57	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:08:59	Read	Finished read.
+04/11/2025 19:08:59	Read	Finished.
+04/11/2025 19:08:59	Read	Started.
+04/11/2025 19:08:59	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 19:10:14	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:10:16	Read	Finished read.
+04/11/2025 19:10:16	Read	Finished.
+04/11/2025 19:10:16	Read	Started.
+04/11/2025 19:10:16	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 19:11:27	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:11:29	Read	Finished read.
+04/11/2025 19:11:29	Read	Finished.
+04/11/2025 19:11:29	Cycle	Started cycle remaining delay of 00:02:10. Scheduled to resume at 04/11/2025 19:13:39.
+04/11/2025 19:13:40	Cycle	Started cycle 16 out of 91.
+04/11/2025 19:13:40	Shake	Started.
+04/11/2025 19:13:40	Shake	Shaking for 200 seconds.
+04/11/2025 19:17:06	Shake	Finished.
+04/11/2025 19:17:06	Read	Started.
+04/11/2025 19:17:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 19:17:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:17:44	Read	Finished read.
+04/11/2025 19:17:44	Read	Finished.
+04/11/2025 19:17:44	Read	Started.
+04/11/2025 19:17:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 19:18:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:19:01	Read	Finished read.
+04/11/2025 19:19:01	Read	Finished.
+04/11/2025 19:19:01	Read	Started.
+04/11/2025 19:19:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 19:20:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:20:14	Read	Finished read.
+04/11/2025 19:20:14	Read	Finished.
+04/11/2025 19:20:14	Read	Started.
+04/11/2025 19:20:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 19:21:25	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:21:27	Read	Finished read.
+04/11/2025 19:21:27	Read	Finished.
+04/11/2025 19:21:27	Cycle	Started cycle remaining delay of 00:02:12. Scheduled to resume at 04/11/2025 19:23:40.
+04/11/2025 19:23:40	Cycle	Started cycle 17 out of 91.
+04/11/2025 19:23:40	Shake	Started.
+04/11/2025 19:23:40	Shake	Shaking for 200 seconds.
+04/11/2025 19:27:06	Shake	Finished.
+04/11/2025 19:27:06	Read	Started.
+04/11/2025 19:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 19:27:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:27:43	Read	Finished read.
+04/11/2025 19:27:43	Read	Finished.
+04/11/2025 19:27:43	Read	Started.
+04/11/2025 19:27:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 19:28:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:29:01	Read	Finished read.
+04/11/2025 19:29:01	Read	Finished.
+04/11/2025 19:29:01	Read	Started.
+04/11/2025 19:29:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 19:30:15	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:30:17	Read	Finished read.
+04/11/2025 19:30:17	Read	Finished.
+04/11/2025 19:30:17	Read	Started.
+04/11/2025 19:30:17	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 19:31:28	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:31:30	Read	Finished read.
+04/11/2025 19:31:30	Read	Finished.
+04/11/2025 19:31:30	Cycle	Started cycle remaining delay of 00:02:09. Scheduled to resume at 04/11/2025 19:33:40.
+04/11/2025 19:33:40	Cycle	Started cycle 18 out of 91.
+04/11/2025 19:33:40	Shake	Started.
+04/11/2025 19:33:40	Shake	Shaking for 200 seconds.
+04/11/2025 19:37:06	Shake	Finished.
+04/11/2025 19:37:06	Read	Started.
+04/11/2025 19:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 19:37:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:37:44	Read	Finished read.
+04/11/2025 19:37:44	Read	Finished.
+04/11/2025 19:37:44	Read	Started.
+04/11/2025 19:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 19:38:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:39:01	Read	Finished read.
+04/11/2025 19:39:01	Read	Finished.
+04/11/2025 19:39:01	Read	Started.
+04/11/2025 19:39:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 19:40:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:40:14	Read	Finished read.
+04/11/2025 19:40:14	Read	Finished.
+04/11/2025 19:40:14	Read	Started.
+04/11/2025 19:40:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 19:41:26	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:41:28	Read	Finished read.
+04/11/2025 19:41:28	Read	Finished.
+04/11/2025 19:41:28	Cycle	Started cycle remaining delay of 00:02:11. Scheduled to resume at 04/11/2025 19:43:40.
+04/11/2025 19:43:40	Cycle	Started cycle 19 out of 91.
+04/11/2025 19:43:40	Shake	Started.
+04/11/2025 19:43:40	Shake	Shaking for 200 seconds.
+04/11/2025 19:47:06	Shake	Finished.
+04/11/2025 19:47:06	Read	Started.
+04/11/2025 19:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 19:47:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:47:44	Read	Finished read.
+04/11/2025 19:47:44	Read	Finished.
+04/11/2025 19:47:44	Read	Started.
+04/11/2025 19:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 19:48:56	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:48:58	Read	Finished read.
+04/11/2025 19:48:58	Read	Finished.
+04/11/2025 19:48:58	Read	Started.
+04/11/2025 19:48:58	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 19:50:09	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:50:11	Read	Finished read.
+04/11/2025 19:50:11	Read	Finished.
+04/11/2025 19:50:11	Read	Started.
+04/11/2025 19:50:11	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 19:51:22	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:51:24	Read	Finished read.
+04/11/2025 19:51:24	Read	Finished.
+04/11/2025 19:51:24	Cycle	Started cycle remaining delay of 00:02:15. Scheduled to resume at 04/11/2025 19:53:40.
+04/11/2025 19:53:40	Cycle	Started cycle 20 out of 91.
+04/11/2025 19:53:40	Shake	Started.
+04/11/2025 19:53:40	Shake	Shaking for 200 seconds.
+04/11/2025 19:57:06	Shake	Finished.
+04/11/2025 19:57:06	Read	Started.
+04/11/2025 19:57:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 19:57:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:57:43	Read	Finished read.
+04/11/2025 19:57:43	Read	Finished.
+04/11/2025 19:57:43	Read	Started.
+04/11/2025 19:57:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 19:58:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 19:59:01	Read	Finished read.
+04/11/2025 19:59:01	Read	Finished.
+04/11/2025 19:59:01	Read	Started.
+04/11/2025 19:59:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 20:00:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:00:14	Read	Finished read.
+04/11/2025 20:00:14	Read	Finished.
+04/11/2025 20:00:14	Read	Started.
+04/11/2025 20:00:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 20:01:25	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:01:27	Read	Finished read.
+04/11/2025 20:01:27	Read	Finished.
+04/11/2025 20:01:27	Cycle	Started cycle remaining delay of 00:02:12. Scheduled to resume at 04/11/2025 20:03:40.
+04/11/2025 20:03:40	Cycle	Started cycle 21 out of 91.
+04/11/2025 20:03:40	Shake	Started.
+04/11/2025 20:03:40	Shake	Shaking for 200 seconds.
+04/11/2025 20:07:05	Shake	Finished.
+04/11/2025 20:07:05	Read	Started.
+04/11/2025 20:07:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 20:07:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:07:43	Read	Finished read.
+04/11/2025 20:07:43	Read	Finished.
+04/11/2025 20:07:43	Read	Started.
+04/11/2025 20:07:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 20:08:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:09:01	Read	Finished read.
+04/11/2025 20:09:01	Read	Finished.
+04/11/2025 20:09:01	Read	Started.
+04/11/2025 20:09:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 20:10:13	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:10:15	Read	Finished read.
+04/11/2025 20:10:15	Read	Finished.
+04/11/2025 20:10:15	Read	Started.
+04/11/2025 20:10:15	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 20:11:27	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:11:29	Read	Finished read.
+04/11/2025 20:11:29	Read	Finished.
+04/11/2025 20:11:29	Cycle	Started cycle remaining delay of 00:02:10. Scheduled to resume at 04/11/2025 20:13:40.
+04/11/2025 20:13:40	Cycle	Started cycle 22 out of 91.
+04/11/2025 20:13:40	Shake	Started.
+04/11/2025 20:13:40	Shake	Shaking for 200 seconds.
+04/11/2025 20:17:05	Shake	Finished.
+04/11/2025 20:17:05	Read	Started.
+04/11/2025 20:17:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 20:17:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:17:43	Read	Finished read.
+04/11/2025 20:17:43	Read	Finished.
+04/11/2025 20:17:43	Read	Started.
+04/11/2025 20:17:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 20:18:56	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:18:58	Read	Finished read.
+04/11/2025 20:18:58	Read	Finished.
+04/11/2025 20:18:58	Read	Started.
+04/11/2025 20:18:58	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 20:20:09	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:20:11	Read	Finished read.
+04/11/2025 20:20:11	Read	Finished.
+04/11/2025 20:20:11	Read	Started.
+04/11/2025 20:20:11	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 20:21:28	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:21:30	Read	Finished read.
+04/11/2025 20:21:30	Read	Finished.
+04/11/2025 20:21:30	Cycle	Started cycle remaining delay of 00:02:09. Scheduled to resume at 04/11/2025 20:23:40.
+04/11/2025 20:23:40	Cycle	Started cycle 23 out of 91.
+04/11/2025 20:23:40	Shake	Started.
+04/11/2025 20:23:40	Shake	Shaking for 200 seconds.
+04/11/2025 20:27:06	Shake	Finished.
+04/11/2025 20:27:06	Read	Started.
+04/11/2025 20:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 20:27:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:27:43	Read	Finished read.
+04/11/2025 20:27:43	Read	Finished.
+04/11/2025 20:27:43	Read	Started.
+04/11/2025 20:27:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 20:28:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:29:01	Read	Finished read.
+04/11/2025 20:29:01	Read	Finished.
+04/11/2025 20:29:01	Read	Started.
+04/11/2025 20:29:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 20:30:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:30:14	Read	Finished read.
+04/11/2025 20:30:14	Read	Finished.
+04/11/2025 20:30:14	Read	Started.
+04/11/2025 20:30:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 20:31:30	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:31:32	Read	Finished read.
+04/11/2025 20:31:32	Read	Finished.
+04/11/2025 20:31:32	Cycle	Started cycle remaining delay of 00:02:07. Scheduled to resume at 04/11/2025 20:33:40.
+04/11/2025 20:33:40	Cycle	Started cycle 24 out of 91.
+04/11/2025 20:33:40	Shake	Started.
+04/11/2025 20:33:40	Shake	Shaking for 200 seconds.
+04/11/2025 20:37:06	Shake	Finished.
+04/11/2025 20:37:06	Read	Started.
+04/11/2025 20:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 20:37:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:37:44	Read	Finished read.
+04/11/2025 20:37:44	Read	Finished.
+04/11/2025 20:37:44	Read	Started.
+04/11/2025 20:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 20:39:00	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:39:02	Read	Finished read.
+04/11/2025 20:39:02	Read	Finished.
+04/11/2025 20:39:02	Read	Started.
+04/11/2025 20:39:02	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 20:40:14	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:40:16	Read	Finished read.
+04/11/2025 20:40:16	Read	Finished.
+04/11/2025 20:40:16	Read	Started.
+04/11/2025 20:40:16	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 20:41:32	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:41:34	Read	Finished read.
+04/11/2025 20:41:34	Read	Finished.
+04/11/2025 20:41:34	Cycle	Started cycle remaining delay of 00:02:05. Scheduled to resume at 04/11/2025 20:43:40.
+04/11/2025 20:43:40	Cycle	Started cycle 25 out of 91.
+04/11/2025 20:43:40	Shake	Started.
+04/11/2025 20:43:40	Shake	Shaking for 200 seconds.
+04/11/2025 20:47:06	Shake	Finished.
+04/11/2025 20:47:06	Read	Started.
+04/11/2025 20:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 20:47:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:47:44	Read	Finished read.
+04/11/2025 20:47:44	Read	Finished.
+04/11/2025 20:47:44	Read	Started.
+04/11/2025 20:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 20:48:58	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:49:00	Read	Finished read.
+04/11/2025 20:49:00	Read	Finished.
+04/11/2025 20:49:00	Read	Started.
+04/11/2025 20:49:00	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 20:50:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:50:14	Read	Finished read.
+04/11/2025 20:50:14	Read	Finished.
+04/11/2025 20:50:14	Read	Started.
+04/11/2025 20:50:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 20:51:25	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:51:27	Read	Finished read.
+04/11/2025 20:51:27	Read	Finished.
+04/11/2025 20:51:27	Cycle	Started cycle remaining delay of 00:02:12. Scheduled to resume at 04/11/2025 20:53:40.
+04/11/2025 20:53:40	Cycle	Started cycle 26 out of 91.
+04/11/2025 20:53:40	Shake	Started.
+04/11/2025 20:53:40	Shake	Shaking for 200 seconds.
+04/11/2025 20:57:06	Shake	Finished.
+04/11/2025 20:57:06	Read	Started.
+04/11/2025 20:57:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 20:57:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:57:44	Read	Finished read.
+04/11/2025 20:57:44	Read	Finished.
+04/11/2025 20:57:44	Read	Started.
+04/11/2025 20:57:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 20:58:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 20:59:01	Read	Finished read.
+04/11/2025 20:59:01	Read	Finished.
+04/11/2025 20:59:01	Read	Started.
+04/11/2025 20:59:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 21:00:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:00:14	Read	Finished read.
+04/11/2025 21:00:14	Read	Finished.
+04/11/2025 21:00:14	Read	Started.
+04/11/2025 21:00:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 21:01:25	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:01:27	Read	Finished read.
+04/11/2025 21:01:27	Read	Finished.
+04/11/2025 21:01:27	Cycle	Started cycle remaining delay of 00:02:12. Scheduled to resume at 04/11/2025 21:03:40.
+04/11/2025 21:03:40	Cycle	Started cycle 27 out of 91.
+04/11/2025 21:03:40	Shake	Started.
+04/11/2025 21:03:40	Shake	Shaking for 200 seconds.
+04/11/2025 21:07:06	Shake	Finished.
+04/11/2025 21:07:06	Read	Started.
+04/11/2025 21:07:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 21:07:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:07:44	Read	Finished read.
+04/11/2025 21:07:44	Read	Finished.
+04/11/2025 21:07:44	Read	Started.
+04/11/2025 21:07:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 21:08:56	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:08:58	Read	Finished read.
+04/11/2025 21:08:58	Read	Finished.
+04/11/2025 21:08:58	Read	Started.
+04/11/2025 21:08:58	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 21:10:10	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:10:12	Read	Finished read.
+04/11/2025 21:10:12	Read	Finished.
+04/11/2025 21:10:12	Read	Started.
+04/11/2025 21:10:12	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 21:11:22	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:11:24	Read	Finished read.
+04/11/2025 21:11:24	Read	Finished.
+04/11/2025 21:11:24	Cycle	Started cycle remaining delay of 00:02:15. Scheduled to resume at 04/11/2025 21:13:40.
+04/11/2025 21:13:40	Cycle	Started cycle 28 out of 91.
+04/11/2025 21:13:40	Shake	Started.
+04/11/2025 21:13:40	Shake	Shaking for 200 seconds.
+04/11/2025 21:17:06	Shake	Finished.
+04/11/2025 21:17:06	Read	Started.
+04/11/2025 21:17:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 21:17:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:17:44	Read	Finished read.
+04/11/2025 21:17:44	Read	Finished.
+04/11/2025 21:17:44	Read	Started.
+04/11/2025 21:17:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 21:18:57	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:18:59	Read	Finished read.
+04/11/2025 21:18:59	Read	Finished.
+04/11/2025 21:18:59	Read	Started.
+04/11/2025 21:18:59	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 21:20:11	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:20:13	Read	Finished read.
+04/11/2025 21:20:13	Read	Finished.
+04/11/2025 21:20:13	Read	Started.
+04/11/2025 21:20:13	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 21:21:24	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:21:26	Read	Finished read.
+04/11/2025 21:21:26	Read	Finished.
+04/11/2025 21:21:26	Cycle	Started cycle remaining delay of 00:02:13. Scheduled to resume at 04/11/2025 21:23:40.
+04/11/2025 21:23:40	Cycle	Started cycle 29 out of 91.
+04/11/2025 21:23:40	Shake	Started.
+04/11/2025 21:23:40	Shake	Shaking for 200 seconds.
+04/11/2025 21:27:06	Shake	Finished.
+04/11/2025 21:27:06	Read	Started.
+04/11/2025 21:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 21:27:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:27:43	Read	Finished read.
+04/11/2025 21:27:43	Read	Finished.
+04/11/2025 21:27:43	Read	Started.
+04/11/2025 21:27:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 21:28:56	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:28:58	Read	Finished read.
+04/11/2025 21:28:58	Read	Finished.
+04/11/2025 21:28:58	Read	Started.
+04/11/2025 21:28:58	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 21:30:09	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:30:11	Read	Finished read.
+04/11/2025 21:30:11	Read	Finished.
+04/11/2025 21:30:11	Read	Started.
+04/11/2025 21:30:11	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 21:31:22	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:31:24	Read	Finished read.
+04/11/2025 21:31:24	Read	Finished.
+04/11/2025 21:31:24	Cycle	Started cycle remaining delay of 00:02:15. Scheduled to resume at 04/11/2025 21:33:40.
+04/11/2025 21:33:40	Cycle	Started cycle 30 out of 91.
+04/11/2025 21:33:40	Shake	Started.
+04/11/2025 21:33:40	Shake	Shaking for 200 seconds.
+04/11/2025 21:37:06	Shake	Finished.
+04/11/2025 21:37:06	Read	Started.
+04/11/2025 21:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 21:37:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:37:43	Read	Finished read.
+04/11/2025 21:37:43	Read	Finished.
+04/11/2025 21:37:43	Read	Started.
+04/11/2025 21:37:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 21:38:56	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:38:58	Read	Finished read.
+04/11/2025 21:38:58	Read	Finished.
+04/11/2025 21:38:58	Read	Started.
+04/11/2025 21:38:58	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 21:40:11	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:40:13	Read	Finished read.
+04/11/2025 21:40:13	Read	Finished.
+04/11/2025 21:40:13	Read	Started.
+04/11/2025 21:40:13	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 21:41:24	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:41:26	Read	Finished read.
+04/11/2025 21:41:26	Read	Finished.
+04/11/2025 21:41:26	Cycle	Started cycle remaining delay of 00:02:13. Scheduled to resume at 04/11/2025 21:43:40.
+04/11/2025 21:43:40	Cycle	Started cycle 31 out of 91.
+04/11/2025 21:43:40	Shake	Started.
+04/11/2025 21:43:40	Shake	Shaking for 200 seconds.
+04/11/2025 21:47:06	Shake	Finished.
+04/11/2025 21:47:06	Read	Started.
+04/11/2025 21:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 21:47:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:47:44	Read	Finished read.
+04/11/2025 21:47:44	Read	Finished.
+04/11/2025 21:47:44	Read	Started.
+04/11/2025 21:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 21:48:57	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:48:59	Read	Finished read.
+04/11/2025 21:48:59	Read	Finished.
+04/11/2025 21:48:59	Read	Started.
+04/11/2025 21:48:59	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 21:50:10	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:50:12	Read	Finished read.
+04/11/2025 21:50:12	Read	Finished.
+04/11/2025 21:50:12	Read	Started.
+04/11/2025 21:50:12	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 21:51:24	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:51:26	Read	Finished read.
+04/11/2025 21:51:26	Read	Finished.
+04/11/2025 21:51:26	Cycle	Started cycle remaining delay of 00:02:13. Scheduled to resume at 04/11/2025 21:53:40.
+04/11/2025 21:53:40	Cycle	Started cycle 32 out of 91.
+04/11/2025 21:53:40	Shake	Started.
+04/11/2025 21:53:40	Shake	Shaking for 200 seconds.
+04/11/2025 21:57:06	Shake	Finished.
+04/11/2025 21:57:06	Read	Started.
+04/11/2025 21:57:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 21:57:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:57:44	Read	Finished read.
+04/11/2025 21:57:44	Read	Finished.
+04/11/2025 21:57:44	Read	Started.
+04/11/2025 21:57:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 21:58:59	Read	Finishing read, waiting for instrument to idle
+04/11/2025 21:59:01	Read	Finished read.
+04/11/2025 21:59:01	Read	Finished.
+04/11/2025 21:59:01	Read	Started.
+04/11/2025 21:59:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 22:00:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:00:14	Read	Finished read.
+04/11/2025 22:00:14	Read	Finished.
+04/11/2025 22:00:14	Read	Started.
+04/11/2025 22:00:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 22:01:25	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:01:27	Read	Finished read.
+04/11/2025 22:01:27	Read	Finished.
+04/11/2025 22:01:27	Cycle	Started cycle remaining delay of 00:02:12. Scheduled to resume at 04/11/2025 22:03:40.
+04/11/2025 22:03:40	Cycle	Started cycle 33 out of 91.
+04/11/2025 22:03:40	Shake	Started.
+04/11/2025 22:03:40	Shake	Shaking for 200 seconds.
+04/11/2025 22:07:06	Shake	Finished.
+04/11/2025 22:07:06	Read	Started.
+04/11/2025 22:07:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 22:07:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:07:43	Read	Finished read.
+04/11/2025 22:07:43	Read	Finished.
+04/11/2025 22:07:43	Read	Started.
+04/11/2025 22:07:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 22:08:58	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:09:00	Read	Finished read.
+04/11/2025 22:09:00	Read	Finished.
+04/11/2025 22:09:00	Read	Started.
+04/11/2025 22:09:00	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 22:10:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:10:14	Read	Finished read.
+04/11/2025 22:10:14	Read	Finished.
+04/11/2025 22:10:14	Read	Started.
+04/11/2025 22:10:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 22:11:26	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:11:28	Read	Finished read.
+04/11/2025 22:11:28	Read	Finished.
+04/11/2025 22:11:28	Cycle	Started cycle remaining delay of 00:02:11. Scheduled to resume at 04/11/2025 22:13:40.
+04/11/2025 22:13:40	Cycle	Started cycle 34 out of 91.
+04/11/2025 22:13:40	Shake	Started.
+04/11/2025 22:13:40	Shake	Shaking for 200 seconds.
+04/11/2025 22:17:06	Shake	Finished.
+04/11/2025 22:17:06	Read	Started.
+04/11/2025 22:17:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 22:17:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:17:44	Read	Finished read.
+04/11/2025 22:17:44	Read	Finished.
+04/11/2025 22:17:44	Read	Started.
+04/11/2025 22:17:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 22:18:58	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:19:00	Read	Finished read.
+04/11/2025 22:19:00	Read	Finished.
+04/11/2025 22:19:00	Read	Started.
+04/11/2025 22:19:00	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 22:20:12	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:20:14	Read	Finished read.
+04/11/2025 22:20:14	Read	Finished.
+04/11/2025 22:20:14	Read	Started.
+04/11/2025 22:20:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 22:21:25	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:21:27	Read	Finished read.
+04/11/2025 22:21:27	Read	Finished.
+04/11/2025 22:21:27	Cycle	Started cycle remaining delay of 00:02:12. Scheduled to resume at 04/11/2025 22:23:40.
+04/11/2025 22:23:40	Cycle	Started cycle 35 out of 91.
+04/11/2025 22:23:40	Shake	Started.
+04/11/2025 22:23:40	Shake	Shaking for 200 seconds.
+04/11/2025 22:27:06	Shake	Finished.
+04/11/2025 22:27:06	Read	Started.
+04/11/2025 22:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 22:27:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:27:43	Read	Finished read.
+04/11/2025 22:27:43	Read	Finished.
+04/11/2025 22:27:43	Read	Started.
+04/11/2025 22:27:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 22:28:58	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:29:00	Read	Finished read.
+04/11/2025 22:29:00	Read	Finished.
+04/11/2025 22:29:00	Read	Started.
+04/11/2025 22:29:00	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 22:30:19	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:30:21	Read	Finished read.
+04/11/2025 22:30:21	Read	Finished.
+04/11/2025 22:30:21	Read	Started.
+04/11/2025 22:30:21	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 22:31:39	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:31:41	Read	Finished read.
+04/11/2025 22:31:41	Read	Finished.
+04/11/2025 22:31:41	Cycle	Started cycle remaining delay of 00:01:58. Scheduled to resume at 04/11/2025 22:33:40.
+04/11/2025 22:33:40	Cycle	Started cycle 36 out of 91.
+04/11/2025 22:33:40	Shake	Started.
+04/11/2025 22:33:40	Shake	Shaking for 200 seconds.
+04/11/2025 22:37:06	Shake	Finished.
+04/11/2025 22:37:06	Read	Started.
+04/11/2025 22:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 22:37:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:37:44	Read	Finished read.
+04/11/2025 22:37:44	Read	Finished.
+04/11/2025 22:37:44	Read	Started.
+04/11/2025 22:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 22:38:56	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:38:58	Read	Finished read.
+04/11/2025 22:38:58	Read	Finished.
+04/11/2025 22:38:58	Read	Started.
+04/11/2025 22:38:58	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 22:40:10	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:40:12	Read	Finished read.
+04/11/2025 22:40:12	Read	Finished.
+04/11/2025 22:40:12	Read	Started.
+04/11/2025 22:40:12	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 22:41:24	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:41:26	Read	Finished read.
+04/11/2025 22:41:26	Read	Finished.
+04/11/2025 22:41:26	Cycle	Started cycle remaining delay of 00:02:13. Scheduled to resume at 04/11/2025 22:43:40.
+04/11/2025 22:43:40	Cycle	Started cycle 37 out of 91.
+04/11/2025 22:43:40	Shake	Started.
+04/11/2025 22:43:40	Shake	Shaking for 200 seconds.
+04/11/2025 22:47:06	Shake	Finished.
+04/11/2025 22:47:06	Read	Started.
+04/11/2025 22:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 22:47:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:47:44	Read	Finished read.
+04/11/2025 22:47:44	Read	Finished.
+04/11/2025 22:47:44	Read	Started.
+04/11/2025 22:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 22:49:01	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:49:03	Read	Finished read.
+04/11/2025 22:49:03	Read	Finished.
+04/11/2025 22:49:03	Read	Started.
+04/11/2025 22:49:03	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 22:50:15	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:50:17	Read	Finished read.
+04/11/2025 22:50:17	Read	Finished.
+04/11/2025 22:50:17	Read	Started.
+04/11/2025 22:50:17	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 22:51:28	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:51:30	Read	Finished read.
+04/11/2025 22:51:30	Read	Finished.
+04/11/2025 22:51:30	Cycle	Started cycle remaining delay of 00:02:09. Scheduled to resume at 04/11/2025 22:53:40.
+04/11/2025 22:53:40	Cycle	Started cycle 38 out of 91.
+04/11/2025 22:53:40	Shake	Started.
+04/11/2025 22:53:40	Shake	Shaking for 200 seconds.
+04/11/2025 22:57:05	Shake	Finished.
+04/11/2025 22:57:05	Read	Started.
+04/11/2025 22:57:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 22:57:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:57:44	Read	Finished read.
+04/11/2025 22:57:44	Read	Finished.
+04/11/2025 22:57:44	Read	Started.
+04/11/2025 22:57:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 22:59:01	Read	Finishing read, waiting for instrument to idle
+04/11/2025 22:59:03	Read	Finished read.
+04/11/2025 22:59:03	Read	Finished.
+04/11/2025 22:59:03	Read	Started.
+04/11/2025 22:59:03	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 23:00:15	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:00:17	Read	Finished read.
+04/11/2025 23:00:17	Read	Finished.
+04/11/2025 23:00:17	Read	Started.
+04/11/2025 23:00:17	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 23:01:29	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:01:31	Read	Finished read.
+04/11/2025 23:01:31	Read	Finished.
+04/11/2025 23:01:31	Cycle	Started cycle remaining delay of 00:02:08. Scheduled to resume at 04/11/2025 23:03:40.
+04/11/2025 23:03:40	Cycle	Started cycle 39 out of 91.
+04/11/2025 23:03:40	Shake	Started.
+04/11/2025 23:03:40	Shake	Shaking for 200 seconds.
+04/11/2025 23:07:06	Shake	Finished.
+04/11/2025 23:07:06	Read	Started.
+04/11/2025 23:07:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 23:07:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:07:43	Read	Finished read.
+04/11/2025 23:07:43	Read	Finished.
+04/11/2025 23:07:43	Read	Started.
+04/11/2025 23:07:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 23:09:00	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:09:02	Read	Finished read.
+04/11/2025 23:09:02	Read	Finished.
+04/11/2025 23:09:02	Read	Started.
+04/11/2025 23:09:02	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 23:10:14	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:10:16	Read	Finished read.
+04/11/2025 23:10:16	Read	Finished.
+04/11/2025 23:10:16	Read	Started.
+04/11/2025 23:10:16	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 23:11:28	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:11:30	Read	Finished read.
+04/11/2025 23:11:30	Read	Finished.
+04/11/2025 23:11:30	Cycle	Started cycle remaining delay of 00:02:09. Scheduled to resume at 04/11/2025 23:13:40.
+04/11/2025 23:13:40	Cycle	Started cycle 40 out of 91.
+04/11/2025 23:13:40	Shake	Started.
+04/11/2025 23:13:40	Shake	Shaking for 200 seconds.
+04/11/2025 23:17:05	Shake	Finished.
+04/11/2025 23:17:05	Read	Started.
+04/11/2025 23:17:05	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 23:17:41	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:17:43	Read	Finished read.
+04/11/2025 23:17:43	Read	Finished.
+04/11/2025 23:17:43	Read	Started.
+04/11/2025 23:17:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 23:18:57	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:18:59	Read	Finished read.
+04/11/2025 23:18:59	Read	Finished.
+04/11/2025 23:18:59	Read	Started.
+04/11/2025 23:18:59	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 23:20:11	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:20:13	Read	Finished read.
+04/11/2025 23:20:13	Read	Finished.
+04/11/2025 23:20:13	Read	Started.
+04/11/2025 23:20:13	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 23:21:24	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:21:26	Read	Finished read.
+04/11/2025 23:21:26	Read	Finished.
+04/11/2025 23:21:26	Cycle	Started cycle remaining delay of 00:02:13. Scheduled to resume at 04/11/2025 23:23:40.
+04/11/2025 23:23:40	Cycle	Started cycle 41 out of 91.
+04/11/2025 23:23:40	Shake	Started.
+04/11/2025 23:23:40	Shake	Shaking for 200 seconds.
+04/11/2025 23:27:06	Shake	Finished.
+04/11/2025 23:27:06	Read	Started.
+04/11/2025 23:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 23:27:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:27:44	Read	Finished read.
+04/11/2025 23:27:44	Read	Finished.
+04/11/2025 23:27:44	Read	Started.
+04/11/2025 23:27:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 23:29:02	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:29:04	Read	Finished read.
+04/11/2025 23:29:04	Read	Finished.
+04/11/2025 23:29:04	Read	Started.
+04/11/2025 23:29:04	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 23:30:16	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:30:18	Read	Finished read.
+04/11/2025 23:30:18	Read	Finished.
+04/11/2025 23:30:18	Read	Started.
+04/11/2025 23:30:18	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 23:31:30	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:31:32	Read	Finished read.
+04/11/2025 23:31:32	Read	Finished.
+04/11/2025 23:31:32	Cycle	Started cycle remaining delay of 00:02:07. Scheduled to resume at 04/11/2025 23:33:40.
+04/11/2025 23:33:40	Cycle	Started cycle 42 out of 91.
+04/11/2025 23:33:40	Shake	Started.
+04/11/2025 23:33:40	Shake	Shaking for 200 seconds.
+04/11/2025 23:37:06	Shake	Finished.
+04/11/2025 23:37:06	Read	Started.
+04/11/2025 23:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 23:37:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:37:44	Read	Finished read.
+04/11/2025 23:37:44	Read	Finished.
+04/11/2025 23:37:44	Read	Started.
+04/11/2025 23:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 23:39:00	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:39:02	Read	Finished read.
+04/11/2025 23:39:02	Read	Finished.
+04/11/2025 23:39:02	Read	Started.
+04/11/2025 23:39:02	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 23:40:15	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:40:17	Read	Finished read.
+04/11/2025 23:40:17	Read	Finished.
+04/11/2025 23:40:17	Read	Started.
+04/11/2025 23:40:17	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 23:41:29	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:41:31	Read	Finished read.
+04/11/2025 23:41:31	Read	Finished.
+04/11/2025 23:41:31	Cycle	Started cycle remaining delay of 00:02:08. Scheduled to resume at 04/11/2025 23:43:40.
+04/11/2025 23:43:40	Cycle	Started cycle 43 out of 91.
+04/11/2025 23:43:40	Shake	Started.
+04/11/2025 23:43:40	Shake	Shaking for 200 seconds.
+04/11/2025 23:47:06	Shake	Finished.
+04/11/2025 23:47:06	Read	Started.
+04/11/2025 23:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 23:47:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:47:44	Read	Finished read.
+04/11/2025 23:47:44	Read	Finished.
+04/11/2025 23:47:44	Read	Started.
+04/11/2025 23:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 23:49:03	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:49:05	Read	Finished read.
+04/11/2025 23:49:05	Read	Finished.
+04/11/2025 23:49:05	Read	Started.
+04/11/2025 23:49:05	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+04/11/2025 23:50:24	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:50:26	Read	Finished read.
+04/11/2025 23:50:26	Read	Finished.
+04/11/2025 23:50:26	Read	Started.
+04/11/2025 23:50:26	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+04/11/2025 23:51:40	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:51:42	Read	Finished read.
+04/11/2025 23:51:42	Read	Finished.
+04/11/2025 23:51:42	Cycle	Started cycle remaining delay of 00:01:57. Scheduled to resume at 04/11/2025 23:53:40.
+04/11/2025 23:53:40	Cycle	Started cycle 44 out of 91.
+04/11/2025 23:53:40	Shake	Started.
+04/11/2025 23:53:40	Shake	Shaking for 200 seconds.
+04/11/2025 23:57:06	Shake	Finished.
+04/11/2025 23:57:06	Read	Started.
+04/11/2025 23:57:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+04/11/2025 23:57:42	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:57:44	Read	Finished read.
+04/11/2025 23:57:44	Read	Finished.
+04/11/2025 23:57:44	Read	Started.
+04/11/2025 23:57:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+04/11/2025 23:59:03	Read	Finishing read, waiting for instrument to idle
+04/11/2025 23:59:05	Read	Finished read.
+04/11/2025 23:59:05	Read	Finished.
+04/11/2025 23:59:05	Read	Started.
+04/11/2025 23:59:05	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 00:00:20	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:00:22	Read	Finished read.
+05/11/2025 00:00:22	Read	Finished.
+05/11/2025 00:00:22	Read	Started.
+05/11/2025 00:00:22	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 00:01:34	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:01:36	Read	Finished read.
+05/11/2025 00:01:36	Read	Finished.
+05/11/2025 00:01:36	Cycle	Started cycle remaining delay of 00:02:04. Scheduled to resume at 05/11/2025 00:03:40.
+05/11/2025 00:03:40	Cycle	Started cycle 45 out of 91.
+05/11/2025 00:03:40	Shake	Started.
+05/11/2025 00:03:40	Shake	Shaking for 200 seconds.
+05/11/2025 00:07:06	Shake	Finished.
+05/11/2025 00:07:06	Read	Started.
+05/11/2025 00:07:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 00:07:41	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:07:43	Read	Finished read.
+05/11/2025 00:07:43	Read	Finished.
+05/11/2025 00:07:43	Read	Started.
+05/11/2025 00:07:43	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 00:08:58	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:09:00	Read	Finished read.
+05/11/2025 00:09:00	Read	Finished.
+05/11/2025 00:09:00	Read	Started.
+05/11/2025 00:09:00	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 00:10:12	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:10:14	Read	Finished read.
+05/11/2025 00:10:14	Read	Finished.
+05/11/2025 00:10:14	Read	Started.
+05/11/2025 00:10:14	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 00:11:26	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:11:28	Read	Finished read.
+05/11/2025 00:11:28	Read	Finished.
+05/11/2025 00:11:28	Cycle	Started cycle remaining delay of 00:02:11. Scheduled to resume at 05/11/2025 00:13:40.
+05/11/2025 00:13:40	Cycle	Started cycle 46 out of 91.
+05/11/2025 00:13:40	Shake	Started.
+05/11/2025 00:13:40	Shake	Shaking for 200 seconds.
+05/11/2025 00:17:06	Shake	Finished.
+05/11/2025 00:17:06	Read	Started.
+05/11/2025 00:17:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 00:17:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:17:44	Read	Finished read.
+05/11/2025 00:17:44	Read	Finished.
+05/11/2025 00:17:44	Read	Started.
+05/11/2025 00:17:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 00:19:04	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:19:06	Read	Finished read.
+05/11/2025 00:19:06	Read	Finished.
+05/11/2025 00:19:06	Read	Started.
+05/11/2025 00:19:06	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 00:20:25	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:20:27	Read	Finished read.
+05/11/2025 00:20:27	Read	Finished.
+05/11/2025 00:20:27	Read	Started.
+05/11/2025 00:20:27	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 00:21:46	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:21:48	Read	Finished read.
+05/11/2025 00:21:48	Read	Finished.
+05/11/2025 00:21:48	Cycle	Started cycle remaining delay of 00:01:51. Scheduled to resume at 05/11/2025 00:23:40.
+05/11/2025 00:23:40	Cycle	Started cycle 47 out of 91.
+05/11/2025 00:23:40	Shake	Started.
+05/11/2025 00:23:40	Shake	Shaking for 200 seconds.
+05/11/2025 00:27:06	Shake	Finished.
+05/11/2025 00:27:06	Read	Started.
+05/11/2025 00:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 00:27:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:27:44	Read	Finished read.
+05/11/2025 00:27:44	Read	Finished.
+05/11/2025 00:27:44	Read	Started.
+05/11/2025 00:27:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 00:29:02	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:29:04	Read	Finished read.
+05/11/2025 00:29:04	Read	Finished.
+05/11/2025 00:29:04	Read	Started.
+05/11/2025 00:29:04	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 00:30:16	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:30:19	Read	Finished read.
+05/11/2025 00:30:19	Read	Finished.
+05/11/2025 00:30:19	Read	Started.
+05/11/2025 00:30:19	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 00:31:31	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:31:33	Read	Finished read.
+05/11/2025 00:31:33	Read	Finished.
+05/11/2025 00:31:33	Cycle	Started cycle remaining delay of 00:02:07. Scheduled to resume at 05/11/2025 00:33:40.
+05/11/2025 00:33:40	Cycle	Started cycle 48 out of 91.
+05/11/2025 00:33:40	Shake	Started.
+05/11/2025 00:33:40	Shake	Shaking for 200 seconds.
+05/11/2025 00:37:06	Shake	Finished.
+05/11/2025 00:37:06	Read	Started.
+05/11/2025 00:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 00:37:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:37:44	Read	Finished read.
+05/11/2025 00:37:44	Read	Finished.
+05/11/2025 00:37:44	Read	Started.
+05/11/2025 00:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 00:39:02	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:39:04	Read	Finished read.
+05/11/2025 00:39:04	Read	Finished.
+05/11/2025 00:39:04	Read	Started.
+05/11/2025 00:39:04	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 00:40:18	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:40:20	Read	Finished read.
+05/11/2025 00:40:20	Read	Finished.
+05/11/2025 00:40:20	Read	Started.
+05/11/2025 00:40:20	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 00:41:39	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:41:41	Read	Finished read.
+05/11/2025 00:41:41	Read	Finished.
+05/11/2025 00:41:41	Cycle	Started cycle remaining delay of 00:01:58. Scheduled to resume at 05/11/2025 00:43:40.
+05/11/2025 00:43:40	Cycle	Started cycle 49 out of 91.
+05/11/2025 00:43:40	Shake	Started.
+05/11/2025 00:43:40	Shake	Shaking for 200 seconds.
+05/11/2025 00:47:06	Shake	Finished.
+05/11/2025 00:47:06	Read	Started.
+05/11/2025 00:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 00:47:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:47:44	Read	Finished read.
+05/11/2025 00:47:44	Read	Finished.
+05/11/2025 00:47:44	Read	Started.
+05/11/2025 00:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 00:49:02	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:49:04	Read	Finished read.
+05/11/2025 00:49:04	Read	Finished.
+05/11/2025 00:49:04	Read	Started.
+05/11/2025 00:49:04	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 00:50:21	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:50:23	Read	Finished read.
+05/11/2025 00:50:23	Read	Finished.
+05/11/2025 00:50:23	Read	Started.
+05/11/2025 00:50:23	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 00:51:35	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:51:37	Read	Finished read.
+05/11/2025 00:51:37	Read	Finished.
+05/11/2025 00:51:37	Cycle	Started cycle remaining delay of 00:02:03. Scheduled to resume at 05/11/2025 00:53:40.
+05/11/2025 00:53:40	Cycle	Started cycle 50 out of 91.
+05/11/2025 00:53:40	Shake	Started.
+05/11/2025 00:53:40	Shake	Shaking for 200 seconds.
+05/11/2025 00:57:06	Shake	Finished.
+05/11/2025 00:57:06	Read	Started.
+05/11/2025 00:57:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 00:57:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:57:44	Read	Finished read.
+05/11/2025 00:57:44	Read	Finished.
+05/11/2025 00:57:44	Read	Started.
+05/11/2025 00:57:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 00:59:04	Read	Finishing read, waiting for instrument to idle
+05/11/2025 00:59:06	Read	Finished read.
+05/11/2025 00:59:06	Read	Finished.
+05/11/2025 00:59:06	Read	Started.
+05/11/2025 00:59:06	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 01:00:26	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:00:28	Read	Finished read.
+05/11/2025 01:00:28	Read	Finished.
+05/11/2025 01:00:28	Read	Started.
+05/11/2025 01:00:28	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 01:01:43	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:01:45	Read	Finished read.
+05/11/2025 01:01:45	Read	Finished.
+05/11/2025 01:01:45	Cycle	Started cycle remaining delay of 00:01:55. Scheduled to resume at 05/11/2025 01:03:40.
+05/11/2025 01:03:40	Cycle	Started cycle 51 out of 91.
+05/11/2025 01:03:40	Shake	Started.
+05/11/2025 01:03:40	Shake	Shaking for 200 seconds.
+05/11/2025 01:07:06	Shake	Finished.
+05/11/2025 01:07:06	Read	Started.
+05/11/2025 01:07:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 01:07:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:07:44	Read	Finished read.
+05/11/2025 01:07:44	Read	Finished.
+05/11/2025 01:07:44	Read	Started.
+05/11/2025 01:07:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 01:09:04	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:09:06	Read	Finished read.
+05/11/2025 01:09:06	Read	Finished.
+05/11/2025 01:09:06	Read	Started.
+05/11/2025 01:09:06	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 01:10:24	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:10:26	Read	Finished read.
+05/11/2025 01:10:26	Read	Finished.
+05/11/2025 01:10:26	Read	Started.
+05/11/2025 01:10:26	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 01:11:39	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:11:41	Read	Finished read.
+05/11/2025 01:11:41	Read	Finished.
+05/11/2025 01:11:41	Cycle	Started cycle remaining delay of 00:01:58. Scheduled to resume at 05/11/2025 01:13:40.
+05/11/2025 01:13:40	Cycle	Started cycle 52 out of 91.
+05/11/2025 01:13:40	Shake	Started.
+05/11/2025 01:13:40	Shake	Shaking for 200 seconds.
+05/11/2025 01:17:06	Shake	Finished.
+05/11/2025 01:17:06	Read	Started.
+05/11/2025 01:17:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 01:17:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:17:44	Read	Finished read.
+05/11/2025 01:17:44	Read	Finished.
+05/11/2025 01:17:44	Read	Started.
+05/11/2025 01:17:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 01:19:01	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:19:03	Read	Finished read.
+05/11/2025 01:19:03	Read	Finished.
+05/11/2025 01:19:03	Read	Started.
+05/11/2025 01:19:03	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 01:20:15	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:20:17	Read	Finished read.
+05/11/2025 01:20:17	Read	Finished.
+05/11/2025 01:20:17	Read	Started.
+05/11/2025 01:20:17	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 01:21:29	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:21:32	Read	Finished read.
+05/11/2025 01:21:32	Read	Finished.
+05/11/2025 01:21:32	Cycle	Started cycle remaining delay of 00:02:08. Scheduled to resume at 05/11/2025 01:23:40.
+05/11/2025 01:23:40	Cycle	Started cycle 53 out of 91.
+05/11/2025 01:23:40	Shake	Started.
+05/11/2025 01:23:40	Shake	Shaking for 200 seconds.
+05/11/2025 01:27:06	Shake	Finished.
+05/11/2025 01:27:06	Read	Started.
+05/11/2025 01:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 01:27:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:27:44	Read	Finished read.
+05/11/2025 01:27:44	Read	Finished.
+05/11/2025 01:27:44	Read	Started.
+05/11/2025 01:27:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 01:29:03	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:29:05	Read	Finished read.
+05/11/2025 01:29:05	Read	Finished.
+05/11/2025 01:29:05	Read	Started.
+05/11/2025 01:29:05	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 01:30:24	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:30:26	Read	Finished read.
+05/11/2025 01:30:26	Read	Finished.
+05/11/2025 01:30:26	Read	Started.
+05/11/2025 01:30:26	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 01:31:46	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:31:48	Read	Finished read.
+05/11/2025 01:31:48	Read	Finished.
+05/11/2025 01:31:48	Cycle	Started cycle remaining delay of 00:01:51. Scheduled to resume at 05/11/2025 01:33:40.
+05/11/2025 01:33:40	Cycle	Started cycle 54 out of 91.
+05/11/2025 01:33:40	Shake	Started.
+05/11/2025 01:33:40	Shake	Shaking for 200 seconds.
+05/11/2025 01:37:06	Shake	Finished.
+05/11/2025 01:37:06	Read	Started.
+05/11/2025 01:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 01:37:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:37:44	Read	Finished read.
+05/11/2025 01:37:44	Read	Finished.
+05/11/2025 01:37:44	Read	Started.
+05/11/2025 01:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 01:39:04	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:39:06	Read	Finished read.
+05/11/2025 01:39:06	Read	Finished.
+05/11/2025 01:39:06	Read	Started.
+05/11/2025 01:39:06	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 01:40:24	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:40:26	Read	Finished read.
+05/11/2025 01:40:26	Read	Finished.
+05/11/2025 01:40:26	Read	Started.
+05/11/2025 01:40:26	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 01:41:39	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:41:41	Read	Finished read.
+05/11/2025 01:41:41	Read	Finished.
+05/11/2025 01:41:41	Cycle	Started cycle remaining delay of 00:01:58. Scheduled to resume at 05/11/2025 01:43:40.
+05/11/2025 01:43:40	Cycle	Started cycle 55 out of 91.
+05/11/2025 01:43:40	Shake	Started.
+05/11/2025 01:43:40	Shake	Shaking for 200 seconds.
+05/11/2025 01:47:06	Shake	Finished.
+05/11/2025 01:47:06	Read	Started.
+05/11/2025 01:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 01:47:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:47:44	Read	Finished read.
+05/11/2025 01:47:44	Read	Finished.
+05/11/2025 01:47:44	Read	Started.
+05/11/2025 01:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 01:49:02	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:49:04	Read	Finished read.
+05/11/2025 01:49:04	Read	Finished.
+05/11/2025 01:49:04	Read	Started.
+05/11/2025 01:49:04	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 01:50:17	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:50:19	Read	Finished read.
+05/11/2025 01:50:19	Read	Finished.
+05/11/2025 01:50:19	Read	Started.
+05/11/2025 01:50:19	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 01:51:32	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:51:34	Read	Finished read.
+05/11/2025 01:51:34	Read	Finished.
+05/11/2025 01:51:34	Cycle	Started cycle remaining delay of 00:02:05. Scheduled to resume at 05/11/2025 01:53:40.
+05/11/2025 01:53:40	Cycle	Started cycle 56 out of 91.
+05/11/2025 01:53:40	Shake	Started.
+05/11/2025 01:53:40	Shake	Shaking for 200 seconds.
+05/11/2025 01:57:06	Shake	Finished.
+05/11/2025 01:57:06	Read	Started.
+05/11/2025 01:57:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 01:57:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:57:44	Read	Finished read.
+05/11/2025 01:57:44	Read	Finished.
+05/11/2025 01:57:44	Read	Started.
+05/11/2025 01:57:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 01:59:05	Read	Finishing read, waiting for instrument to idle
+05/11/2025 01:59:07	Read	Finished read.
+05/11/2025 01:59:07	Read	Finished.
+05/11/2025 01:59:07	Read	Started.
+05/11/2025 01:59:07	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 02:00:21	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:00:23	Read	Finished read.
+05/11/2025 02:00:23	Read	Finished.
+05/11/2025 02:00:23	Read	Started.
+05/11/2025 02:00:23	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 02:01:36	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:01:38	Read	Finished read.
+05/11/2025 02:01:38	Read	Finished.
+05/11/2025 02:01:38	Cycle	Started cycle remaining delay of 00:02:02. Scheduled to resume at 05/11/2025 02:03:40.
+05/11/2025 02:03:40	Cycle	Started cycle 57 out of 91.
+05/11/2025 02:03:40	Shake	Started.
+05/11/2025 02:03:40	Shake	Shaking for 200 seconds.
+05/11/2025 02:07:06	Shake	Finished.
+05/11/2025 02:07:06	Read	Started.
+05/11/2025 02:07:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 02:07:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:07:44	Read	Finished read.
+05/11/2025 02:07:44	Read	Finished.
+05/11/2025 02:07:44	Read	Started.
+05/11/2025 02:07:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 02:09:03	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:09:05	Read	Finished read.
+05/11/2025 02:09:05	Read	Finished.
+05/11/2025 02:09:05	Read	Started.
+05/11/2025 02:09:05	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 02:10:17	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:10:20	Read	Finished read.
+05/11/2025 02:10:20	Read	Finished.
+05/11/2025 02:10:20	Read	Started.
+05/11/2025 02:10:20	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 02:11:32	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:11:34	Read	Finished read.
+05/11/2025 02:11:34	Read	Finished.
+05/11/2025 02:11:34	Cycle	Started cycle remaining delay of 00:02:05. Scheduled to resume at 05/11/2025 02:13:40.
+05/11/2025 02:13:40	Cycle	Started cycle 58 out of 91.
+05/11/2025 02:13:40	Shake	Started.
+05/11/2025 02:13:40	Shake	Shaking for 200 seconds.
+05/11/2025 02:17:06	Shake	Finished.
+05/11/2025 02:17:06	Read	Started.
+05/11/2025 02:17:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 02:17:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:17:44	Read	Finished read.
+05/11/2025 02:17:44	Read	Finished.
+05/11/2025 02:17:44	Read	Started.
+05/11/2025 02:17:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 02:19:04	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:19:06	Read	Finished read.
+05/11/2025 02:19:06	Read	Finished.
+05/11/2025 02:19:06	Read	Started.
+05/11/2025 02:19:06	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 02:20:26	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:20:28	Read	Finished read.
+05/11/2025 02:20:28	Read	Finished.
+05/11/2025 02:20:28	Read	Started.
+05/11/2025 02:20:28	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 02:21:45	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:21:47	Read	Finished read.
+05/11/2025 02:21:47	Read	Finished.
+05/11/2025 02:21:47	Cycle	Started cycle remaining delay of 00:01:52. Scheduled to resume at 05/11/2025 02:23:40.
+05/11/2025 02:23:40	Cycle	Started cycle 59 out of 91.
+05/11/2025 02:23:40	Shake	Started.
+05/11/2025 02:23:40	Shake	Shaking for 200 seconds.
+05/11/2025 02:27:06	Shake	Finished.
+05/11/2025 02:27:06	Read	Started.
+05/11/2025 02:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 02:27:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:27:44	Read	Finished read.
+05/11/2025 02:27:44	Read	Finished.
+05/11/2025 02:27:44	Read	Started.
+05/11/2025 02:27:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 02:29:04	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:29:06	Read	Finished read.
+05/11/2025 02:29:06	Read	Finished.
+05/11/2025 02:29:06	Read	Started.
+05/11/2025 02:29:06	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 02:30:21	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:30:23	Read	Finished read.
+05/11/2025 02:30:23	Read	Finished.
+05/11/2025 02:30:23	Read	Started.
+05/11/2025 02:30:23	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 02:31:36	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:31:38	Read	Finished read.
+05/11/2025 02:31:38	Read	Finished.
+05/11/2025 02:31:38	Cycle	Started cycle remaining delay of 00:02:02. Scheduled to resume at 05/11/2025 02:33:40.
+05/11/2025 02:33:40	Cycle	Started cycle 60 out of 91.
+05/11/2025 02:33:40	Shake	Started.
+05/11/2025 02:33:40	Shake	Shaking for 200 seconds.
+05/11/2025 02:37:06	Shake	Finished.
+05/11/2025 02:37:06	Read	Started.
+05/11/2025 02:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 02:37:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:37:44	Read	Finished read.
+05/11/2025 02:37:44	Read	Finished.
+05/11/2025 02:37:44	Read	Started.
+05/11/2025 02:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 02:39:05	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:39:07	Read	Finished read.
+05/11/2025 02:39:07	Read	Finished.
+05/11/2025 02:39:07	Read	Started.
+05/11/2025 02:39:07	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 02:40:21	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:40:23	Read	Finished read.
+05/11/2025 02:40:23	Read	Finished.
+05/11/2025 02:40:23	Read	Started.
+05/11/2025 02:40:23	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 02:41:36	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:41:38	Read	Finished read.
+05/11/2025 02:41:38	Read	Finished.
+05/11/2025 02:41:38	Cycle	Started cycle remaining delay of 00:02:01. Scheduled to resume at 05/11/2025 02:43:40.
+05/11/2025 02:43:40	Cycle	Started cycle 61 out of 91.
+05/11/2025 02:43:40	Shake	Started.
+05/11/2025 02:43:40	Shake	Shaking for 200 seconds.
+05/11/2025 02:47:06	Shake	Finished.
+05/11/2025 02:47:06	Read	Started.
+05/11/2025 02:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 02:47:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:47:44	Read	Finished read.
+05/11/2025 02:47:44	Read	Finished.
+05/11/2025 02:47:44	Read	Started.
+05/11/2025 02:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 02:49:05	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:49:07	Read	Finished read.
+05/11/2025 02:49:07	Read	Finished.
+05/11/2025 02:49:07	Read	Started.
+05/11/2025 02:49:07	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 02:50:24	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:50:26	Read	Finished read.
+05/11/2025 02:50:26	Read	Finished.
+05/11/2025 02:50:26	Read	Started.
+05/11/2025 02:50:26	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 02:51:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:51:44	Read	Finished read.
+05/11/2025 02:51:44	Read	Finished.
+05/11/2025 02:51:44	Cycle	Started cycle remaining delay of 00:01:55. Scheduled to resume at 05/11/2025 02:53:40.
+05/11/2025 02:53:40	Cycle	Started cycle 62 out of 91.
+05/11/2025 02:53:40	Shake	Started.
+05/11/2025 02:53:40	Shake	Shaking for 200 seconds.
+05/11/2025 02:57:06	Shake	Finished.
+05/11/2025 02:57:06	Read	Started.
+05/11/2025 02:57:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 02:57:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:57:44	Read	Finished read.
+05/11/2025 02:57:44	Read	Finished.
+05/11/2025 02:57:44	Read	Started.
+05/11/2025 02:57:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 02:59:03	Read	Finishing read, waiting for instrument to idle
+05/11/2025 02:59:05	Read	Finished read.
+05/11/2025 02:59:05	Read	Finished.
+05/11/2025 02:59:05	Read	Started.
+05/11/2025 02:59:05	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 03:00:25	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:00:27	Read	Finished read.
+05/11/2025 03:00:27	Read	Finished.
+05/11/2025 03:00:27	Read	Started.
+05/11/2025 03:00:27	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 03:01:43	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:01:45	Read	Finished read.
+05/11/2025 03:01:45	Read	Finished.
+05/11/2025 03:01:45	Cycle	Started cycle remaining delay of 00:01:54. Scheduled to resume at 05/11/2025 03:03:40.
+05/11/2025 03:03:40	Cycle	Started cycle 63 out of 91.
+05/11/2025 03:03:40	Shake	Started.
+05/11/2025 03:03:40	Shake	Shaking for 200 seconds.
+05/11/2025 03:07:06	Shake	Finished.
+05/11/2025 03:07:06	Read	Started.
+05/11/2025 03:07:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 03:07:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:07:44	Read	Finished read.
+05/11/2025 03:07:44	Read	Finished.
+05/11/2025 03:07:44	Read	Started.
+05/11/2025 03:07:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 03:09:05	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:09:07	Read	Finished read.
+05/11/2025 03:09:07	Read	Finished.
+05/11/2025 03:09:07	Read	Started.
+05/11/2025 03:09:07	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 03:10:25	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:10:27	Read	Finished read.
+05/11/2025 03:10:27	Read	Finished.
+05/11/2025 03:10:27	Read	Started.
+05/11/2025 03:10:27	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 03:11:40	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:11:42	Read	Finished read.
+05/11/2025 03:11:42	Read	Finished.
+05/11/2025 03:11:42	Cycle	Started cycle remaining delay of 00:01:57. Scheduled to resume at 05/11/2025 03:13:40.
+05/11/2025 03:13:40	Cycle	Started cycle 64 out of 91.
+05/11/2025 03:13:40	Shake	Started.
+05/11/2025 03:13:40	Shake	Shaking for 200 seconds.
+05/11/2025 03:17:06	Shake	Finished.
+05/11/2025 03:17:06	Read	Started.
+05/11/2025 03:17:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 03:17:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:17:44	Read	Finished read.
+05/11/2025 03:17:44	Read	Finished.
+05/11/2025 03:17:44	Read	Started.
+05/11/2025 03:17:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 03:19:06	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:19:08	Read	Finished read.
+05/11/2025 03:19:08	Read	Finished.
+05/11/2025 03:19:08	Read	Started.
+05/11/2025 03:19:08	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 03:20:28	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:20:30	Read	Finished read.
+05/11/2025 03:20:30	Read	Finished.
+05/11/2025 03:20:30	Read	Started.
+05/11/2025 03:20:30	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 03:21:50	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:21:52	Read	Finished read.
+05/11/2025 03:21:52	Read	Finished.
+05/11/2025 03:21:52	Cycle	Started cycle remaining delay of 00:01:47. Scheduled to resume at 05/11/2025 03:23:40.
+05/11/2025 03:23:40	Cycle	Started cycle 65 out of 91.
+05/11/2025 03:23:40	Shake	Started.
+05/11/2025 03:23:40	Shake	Shaking for 200 seconds.
+05/11/2025 03:27:06	Shake	Finished.
+05/11/2025 03:27:06	Read	Started.
+05/11/2025 03:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 03:27:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:27:44	Read	Finished read.
+05/11/2025 03:27:44	Read	Finished.
+05/11/2025 03:27:44	Read	Started.
+05/11/2025 03:27:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 03:29:02	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:29:04	Read	Finished read.
+05/11/2025 03:29:04	Read	Finished.
+05/11/2025 03:29:04	Read	Started.
+05/11/2025 03:29:04	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 03:30:18	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:30:20	Read	Finished read.
+05/11/2025 03:30:20	Read	Finished.
+05/11/2025 03:30:20	Read	Started.
+05/11/2025 03:30:20	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 03:31:33	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:31:35	Read	Finished read.
+05/11/2025 03:31:35	Read	Finished.
+05/11/2025 03:31:35	Cycle	Started cycle remaining delay of 00:02:05. Scheduled to resume at 05/11/2025 03:33:40.
+05/11/2025 03:33:40	Cycle	Started cycle 66 out of 91.
+05/11/2025 03:33:40	Shake	Started.
+05/11/2025 03:33:40	Shake	Shaking for 200 seconds.
+05/11/2025 03:37:06	Shake	Finished.
+05/11/2025 03:37:06	Read	Started.
+05/11/2025 03:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 03:37:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:37:44	Read	Finished read.
+05/11/2025 03:37:44	Read	Finished.
+05/11/2025 03:37:44	Read	Started.
+05/11/2025 03:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 03:39:05	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:39:07	Read	Finished read.
+05/11/2025 03:39:07	Read	Finished.
+05/11/2025 03:39:07	Read	Started.
+05/11/2025 03:39:07	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 03:40:27	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:40:29	Read	Finished read.
+05/11/2025 03:40:29	Read	Finished.
+05/11/2025 03:40:29	Read	Started.
+05/11/2025 03:40:29	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 03:41:50	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:41:52	Read	Finished read.
+05/11/2025 03:41:52	Read	Finished.
+05/11/2025 03:41:52	Cycle	Started cycle remaining delay of 00:01:48. Scheduled to resume at 05/11/2025 03:43:40.
+05/11/2025 03:43:40	Cycle	Started cycle 67 out of 91.
+05/11/2025 03:43:40	Shake	Started.
+05/11/2025 03:43:40	Shake	Shaking for 200 seconds.
+05/11/2025 03:47:06	Shake	Finished.
+05/11/2025 03:47:06	Read	Started.
+05/11/2025 03:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 03:47:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:47:44	Read	Finished read.
+05/11/2025 03:47:44	Read	Finished.
+05/11/2025 03:47:44	Read	Started.
+05/11/2025 03:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 03:49:03	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:49:05	Read	Finished read.
+05/11/2025 03:49:05	Read	Finished.
+05/11/2025 03:49:05	Read	Started.
+05/11/2025 03:49:05	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 03:50:18	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:50:20	Read	Finished read.
+05/11/2025 03:50:20	Read	Finished.
+05/11/2025 03:50:20	Read	Started.
+05/11/2025 03:50:20	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 03:51:35	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:51:37	Read	Finished read.
+05/11/2025 03:51:37	Read	Finished.
+05/11/2025 03:51:37	Cycle	Started cycle remaining delay of 00:02:02. Scheduled to resume at 05/11/2025 03:53:40.
+05/11/2025 03:53:40	Cycle	Started cycle 68 out of 91.
+05/11/2025 03:53:40	Shake	Started.
+05/11/2025 03:53:40	Shake	Shaking for 200 seconds.
+05/11/2025 03:57:06	Shake	Finished.
+05/11/2025 03:57:06	Read	Started.
+05/11/2025 03:57:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 03:57:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:57:44	Read	Finished read.
+05/11/2025 03:57:44	Read	Finished.
+05/11/2025 03:57:44	Read	Started.
+05/11/2025 03:57:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 03:59:05	Read	Finishing read, waiting for instrument to idle
+05/11/2025 03:59:07	Read	Finished read.
+05/11/2025 03:59:07	Read	Finished.
+05/11/2025 03:59:07	Read	Started.
+05/11/2025 03:59:07	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 04:00:28	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:00:30	Read	Finished read.
+05/11/2025 04:00:30	Read	Finished.
+05/11/2025 04:00:30	Read	Started.
+05/11/2025 04:00:30	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 04:01:48	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:01:50	Read	Finished read.
+05/11/2025 04:01:50	Read	Finished.
+05/11/2025 04:01:50	Cycle	Started cycle remaining delay of 00:01:49. Scheduled to resume at 05/11/2025 04:03:40.
+05/11/2025 04:03:40	Cycle	Started cycle 69 out of 91.
+05/11/2025 04:03:40	Shake	Started.
+05/11/2025 04:03:40	Shake	Shaking for 200 seconds.
+05/11/2025 04:07:06	Shake	Finished.
+05/11/2025 04:07:06	Read	Started.
+05/11/2025 04:07:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 04:07:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:07:44	Read	Finished read.
+05/11/2025 04:07:44	Read	Finished.
+05/11/2025 04:07:44	Read	Started.
+05/11/2025 04:07:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 04:09:05	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:09:07	Read	Finished read.
+05/11/2025 04:09:07	Read	Finished.
+05/11/2025 04:09:07	Read	Started.
+05/11/2025 04:09:07	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 04:10:27	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:10:30	Read	Finished read.
+05/11/2025 04:10:30	Read	Finished.
+05/11/2025 04:10:30	Read	Started.
+05/11/2025 04:10:30	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 04:11:47	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:11:49	Read	Finished read.
+05/11/2025 04:11:49	Read	Finished.
+05/11/2025 04:11:49	Cycle	Started cycle remaining delay of 00:01:50. Scheduled to resume at 05/11/2025 04:13:40.
+05/11/2025 04:13:40	Cycle	Started cycle 70 out of 91.
+05/11/2025 04:13:40	Shake	Started.
+05/11/2025 04:13:40	Shake	Shaking for 200 seconds.
+05/11/2025 04:17:06	Shake	Finished.
+05/11/2025 04:17:06	Read	Started.
+05/11/2025 04:17:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 04:17:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:17:44	Read	Finished read.
+05/11/2025 04:17:44	Read	Finished.
+05/11/2025 04:17:44	Read	Started.
+05/11/2025 04:17:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 04:19:02	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:19:04	Read	Finished read.
+05/11/2025 04:19:04	Read	Finished.
+05/11/2025 04:19:04	Read	Started.
+05/11/2025 04:19:04	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 04:20:18	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:20:20	Read	Finished read.
+05/11/2025 04:20:20	Read	Finished.
+05/11/2025 04:20:20	Read	Started.
+05/11/2025 04:20:20	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 04:21:34	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:21:36	Read	Finished read.
+05/11/2025 04:21:36	Read	Finished.
+05/11/2025 04:21:36	Cycle	Started cycle remaining delay of 00:02:04. Scheduled to resume at 05/11/2025 04:23:40.
+05/11/2025 04:23:40	Cycle	Started cycle 71 out of 91.
+05/11/2025 04:23:40	Shake	Started.
+05/11/2025 04:23:40	Shake	Shaking for 200 seconds.
+05/11/2025 04:27:06	Shake	Finished.
+05/11/2025 04:27:06	Read	Started.
+05/11/2025 04:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 04:27:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:27:44	Read	Finished read.
+05/11/2025 04:27:44	Read	Finished.
+05/11/2025 04:27:44	Read	Started.
+05/11/2025 04:27:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 04:29:03	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:29:05	Read	Finished read.
+05/11/2025 04:29:05	Read	Finished.
+05/11/2025 04:29:05	Read	Started.
+05/11/2025 04:29:05	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 04:30:18	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:30:20	Read	Finished read.
+05/11/2025 04:30:20	Read	Finished.
+05/11/2025 04:30:20	Read	Started.
+05/11/2025 04:30:20	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 04:31:34	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:31:36	Read	Finished read.
+05/11/2025 04:31:36	Read	Finished.
+05/11/2025 04:31:36	Cycle	Started cycle remaining delay of 00:02:04. Scheduled to resume at 05/11/2025 04:33:40.
+05/11/2025 04:33:40	Cycle	Started cycle 72 out of 91.
+05/11/2025 04:33:40	Shake	Started.
+05/11/2025 04:33:40	Shake	Shaking for 200 seconds.
+05/11/2025 04:37:06	Shake	Finished.
+05/11/2025 04:37:06	Read	Started.
+05/11/2025 04:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 04:37:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:37:44	Read	Finished read.
+05/11/2025 04:37:44	Read	Finished.
+05/11/2025 04:37:44	Read	Started.
+05/11/2025 04:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 04:39:06	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:39:08	Read	Finished read.
+05/11/2025 04:39:08	Read	Finished.
+05/11/2025 04:39:08	Read	Started.
+05/11/2025 04:39:08	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 04:40:28	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:40:30	Read	Finished read.
+05/11/2025 04:40:30	Read	Finished.
+05/11/2025 04:40:30	Read	Started.
+05/11/2025 04:40:30	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 04:41:51	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:41:53	Read	Finished read.
+05/11/2025 04:41:53	Read	Finished.
+05/11/2025 04:41:53	Cycle	Started cycle remaining delay of 00:01:46. Scheduled to resume at 05/11/2025 04:43:40.
+05/11/2025 04:43:40	Cycle	Started cycle 73 out of 91.
+05/11/2025 04:43:40	Shake	Started.
+05/11/2025 04:43:40	Shake	Shaking for 200 seconds.
+05/11/2025 04:47:06	Shake	Finished.
+05/11/2025 04:47:06	Read	Started.
+05/11/2025 04:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 04:47:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:47:44	Read	Finished read.
+05/11/2025 04:47:44	Read	Finished.
+05/11/2025 04:47:44	Read	Started.
+05/11/2025 04:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 04:49:05	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:49:08	Read	Finished read.
+05/11/2025 04:49:08	Read	Finished.
+05/11/2025 04:49:08	Read	Started.
+05/11/2025 04:49:08	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 04:50:23	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:50:25	Read	Finished read.
+05/11/2025 04:50:25	Read	Finished.
+05/11/2025 04:50:25	Read	Started.
+05/11/2025 04:50:25	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 04:51:38	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:51:40	Read	Finished read.
+05/11/2025 04:51:40	Read	Finished.
+05/11/2025 04:51:40	Cycle	Started cycle remaining delay of 00:01:59. Scheduled to resume at 05/11/2025 04:53:40.
+05/11/2025 04:53:40	Cycle	Started cycle 74 out of 91.
+05/11/2025 04:53:40	Shake	Started.
+05/11/2025 04:53:40	Shake	Shaking for 200 seconds.
+05/11/2025 04:57:06	Shake	Finished.
+05/11/2025 04:57:06	Read	Started.
+05/11/2025 04:57:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 04:57:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:57:44	Read	Finished read.
+05/11/2025 04:57:44	Read	Finished.
+05/11/2025 04:57:44	Read	Started.
+05/11/2025 04:57:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 04:59:04	Read	Finishing read, waiting for instrument to idle
+05/11/2025 04:59:06	Read	Finished read.
+05/11/2025 04:59:06	Read	Finished.
+05/11/2025 04:59:06	Read	Started.
+05/11/2025 04:59:06	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 05:00:20	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:00:22	Read	Finished read.
+05/11/2025 05:00:22	Read	Finished.
+05/11/2025 05:00:22	Read	Started.
+05/11/2025 05:00:22	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 05:01:36	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:01:38	Read	Finished read.
+05/11/2025 05:01:38	Read	Finished.
+05/11/2025 05:01:38	Cycle	Started cycle remaining delay of 00:02:02. Scheduled to resume at 05/11/2025 05:03:40.
+05/11/2025 05:03:40	Cycle	Started cycle 75 out of 91.
+05/11/2025 05:03:40	Shake	Started.
+05/11/2025 05:03:40	Shake	Shaking for 200 seconds.
+05/11/2025 05:07:06	Shake	Finished.
+05/11/2025 05:07:06	Read	Started.
+05/11/2025 05:07:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 05:07:41	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:07:44	Read	Finished read.
+05/11/2025 05:07:44	Read	Finished.
+05/11/2025 05:07:44	Read	Started.
+05/11/2025 05:07:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 05:09:03	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:09:05	Read	Finished read.
+05/11/2025 05:09:05	Read	Finished.
+05/11/2025 05:09:05	Read	Started.
+05/11/2025 05:09:05	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 05:10:18	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:10:20	Read	Finished read.
+05/11/2025 05:10:20	Read	Finished.
+05/11/2025 05:10:20	Read	Started.
+05/11/2025 05:10:20	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 05:11:34	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:11:37	Read	Finished read.
+05/11/2025 05:11:37	Read	Finished.
+05/11/2025 05:11:37	Cycle	Started cycle remaining delay of 00:02:03. Scheduled to resume at 05/11/2025 05:13:40.
+05/11/2025 05:13:40	Cycle	Started cycle 76 out of 91.
+05/11/2025 05:13:40	Shake	Started.
+05/11/2025 05:13:40	Shake	Shaking for 200 seconds.
+05/11/2025 05:17:06	Shake	Finished.
+05/11/2025 05:17:06	Read	Started.
+05/11/2025 05:17:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 05:17:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:17:44	Read	Finished read.
+05/11/2025 05:17:44	Read	Finished.
+05/11/2025 05:17:44	Read	Started.
+05/11/2025 05:17:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 05:19:03	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:19:05	Read	Finished read.
+05/11/2025 05:19:05	Read	Finished.
+05/11/2025 05:19:05	Read	Started.
+05/11/2025 05:19:05	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 05:20:19	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:20:21	Read	Finished read.
+05/11/2025 05:20:21	Read	Finished.
+05/11/2025 05:20:21	Read	Started.
+05/11/2025 05:20:21	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 05:21:35	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:21:37	Read	Finished read.
+05/11/2025 05:21:37	Read	Finished.
+05/11/2025 05:21:37	Cycle	Started cycle remaining delay of 00:02:03. Scheduled to resume at 05/11/2025 05:23:40.
+05/11/2025 05:23:40	Cycle	Started cycle 77 out of 91.
+05/11/2025 05:23:40	Shake	Started.
+05/11/2025 05:23:40	Shake	Shaking for 200 seconds.
+05/11/2025 05:27:06	Shake	Finished.
+05/11/2025 05:27:06	Read	Started.
+05/11/2025 05:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 05:27:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:27:44	Read	Finished read.
+05/11/2025 05:27:44	Read	Finished.
+05/11/2025 05:27:44	Read	Started.
+05/11/2025 05:27:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 05:29:06	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:29:08	Read	Finished read.
+05/11/2025 05:29:08	Read	Finished.
+05/11/2025 05:29:08	Read	Started.
+05/11/2025 05:29:08	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 05:30:29	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:30:31	Read	Finished read.
+05/11/2025 05:30:31	Read	Finished.
+05/11/2025 05:30:31	Read	Started.
+05/11/2025 05:30:31	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 05:31:52	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:31:54	Read	Finished read.
+05/11/2025 05:31:54	Read	Finished.
+05/11/2025 05:31:54	Cycle	Started cycle remaining delay of 00:01:46. Scheduled to resume at 05/11/2025 05:33:40.
+05/11/2025 05:33:40	Cycle	Started cycle 78 out of 91.
+05/11/2025 05:33:40	Shake	Started.
+05/11/2025 05:33:40	Shake	Shaking for 200 seconds.
+05/11/2025 05:37:06	Shake	Finished.
+05/11/2025 05:37:06	Read	Started.
+05/11/2025 05:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 05:37:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:37:44	Read	Finished read.
+05/11/2025 05:37:44	Read	Finished.
+05/11/2025 05:37:44	Read	Started.
+05/11/2025 05:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 05:39:05	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:39:07	Read	Finished read.
+05/11/2025 05:39:07	Read	Finished.
+05/11/2025 05:39:07	Read	Started.
+05/11/2025 05:39:07	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 05:40:26	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:40:28	Read	Finished read.
+05/11/2025 05:40:28	Read	Finished.
+05/11/2025 05:40:28	Read	Started.
+05/11/2025 05:40:28	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 05:41:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:41:44	Read	Finished read.
+05/11/2025 05:41:44	Read	Finished.
+05/11/2025 05:41:44	Cycle	Started cycle remaining delay of 00:01:56. Scheduled to resume at 05/11/2025 05:43:40.
+05/11/2025 05:43:40	Cycle	Started cycle 79 out of 91.
+05/11/2025 05:43:40	Shake	Started.
+05/11/2025 05:43:40	Shake	Shaking for 200 seconds.
+05/11/2025 05:47:06	Shake	Finished.
+05/11/2025 05:47:06	Read	Started.
+05/11/2025 05:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 05:47:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:47:44	Read	Finished read.
+05/11/2025 05:47:44	Read	Finished.
+05/11/2025 05:47:44	Read	Started.
+05/11/2025 05:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 05:49:05	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:49:07	Read	Finished read.
+05/11/2025 05:49:07	Read	Finished.
+05/11/2025 05:49:07	Read	Started.
+05/11/2025 05:49:07	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 05:50:22	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:50:24	Read	Finished read.
+05/11/2025 05:50:24	Read	Finished.
+05/11/2025 05:50:24	Read	Started.
+05/11/2025 05:50:24	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 05:51:38	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:51:40	Read	Finished read.
+05/11/2025 05:51:40	Read	Finished.
+05/11/2025 05:51:40	Cycle	Started cycle remaining delay of 00:02:00. Scheduled to resume at 05/11/2025 05:53:40.
+05/11/2025 05:53:40	Cycle	Started cycle 80 out of 91.
+05/11/2025 05:53:40	Shake	Started.
+05/11/2025 05:53:40	Shake	Shaking for 200 seconds.
+05/11/2025 05:57:06	Shake	Finished.
+05/11/2025 05:57:06	Read	Started.
+05/11/2025 05:57:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 05:57:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:57:44	Read	Finished read.
+05/11/2025 05:57:44	Read	Finished.
+05/11/2025 05:57:44	Read	Started.
+05/11/2025 05:57:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 05:59:06	Read	Finishing read, waiting for instrument to idle
+05/11/2025 05:59:08	Read	Finished read.
+05/11/2025 05:59:08	Read	Finished.
+05/11/2025 05:59:08	Read	Started.
+05/11/2025 05:59:08	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 06:00:27	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:00:29	Read	Finished read.
+05/11/2025 06:00:29	Read	Finished.
+05/11/2025 06:00:29	Read	Started.
+05/11/2025 06:00:29	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 06:01:44	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:01:46	Read	Finished read.
+05/11/2025 06:01:46	Read	Finished.
+05/11/2025 06:01:46	Cycle	Started cycle remaining delay of 00:01:54. Scheduled to resume at 05/11/2025 06:03:40.
+05/11/2025 06:03:40	Cycle	Started cycle 81 out of 91.
+05/11/2025 06:03:40	Shake	Started.
+05/11/2025 06:03:40	Shake	Shaking for 200 seconds.
+05/11/2025 06:07:06	Shake	Finished.
+05/11/2025 06:07:06	Read	Started.
+05/11/2025 06:07:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 06:07:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:07:44	Read	Finished read.
+05/11/2025 06:07:44	Read	Finished.
+05/11/2025 06:07:44	Read	Started.
+05/11/2025 06:07:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 06:09:01	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:09:03	Read	Finished read.
+05/11/2025 06:09:03	Read	Finished.
+05/11/2025 06:09:03	Read	Started.
+05/11/2025 06:09:03	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 06:10:17	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:10:19	Read	Finished read.
+05/11/2025 06:10:19	Read	Finished.
+05/11/2025 06:10:19	Read	Started.
+05/11/2025 06:10:19	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 06:11:38	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:11:40	Read	Finished read.
+05/11/2025 06:11:40	Read	Finished.
+05/11/2025 06:11:40	Cycle	Started cycle remaining delay of 00:01:59. Scheduled to resume at 05/11/2025 06:13:40.
+05/11/2025 06:13:40	Cycle	Started cycle 82 out of 91.
+05/11/2025 06:13:40	Shake	Started.
+05/11/2025 06:13:40	Shake	Shaking for 200 seconds.
+05/11/2025 06:17:06	Shake	Finished.
+05/11/2025 06:17:06	Read	Started.
+05/11/2025 06:17:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 06:17:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:17:44	Read	Finished read.
+05/11/2025 06:17:44	Read	Finished.
+05/11/2025 06:17:44	Read	Started.
+05/11/2025 06:17:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 06:19:06	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:19:08	Read	Finished read.
+05/11/2025 06:19:08	Read	Finished.
+05/11/2025 06:19:08	Read	Started.
+05/11/2025 06:19:08	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 06:20:30	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:20:32	Read	Finished read.
+05/11/2025 06:20:32	Read	Finished.
+05/11/2025 06:20:32	Read	Started.
+05/11/2025 06:20:32	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 06:21:51	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:21:53	Read	Finished read.
+05/11/2025 06:21:53	Read	Finished.
+05/11/2025 06:21:53	Cycle	Started cycle remaining delay of 00:01:47. Scheduled to resume at 05/11/2025 06:23:40.
+05/11/2025 06:23:40	Cycle	Started cycle 83 out of 91.
+05/11/2025 06:23:40	Shake	Started.
+05/11/2025 06:23:40	Shake	Shaking for 200 seconds.
+05/11/2025 06:27:06	Shake	Finished.
+05/11/2025 06:27:06	Read	Started.
+05/11/2025 06:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 06:27:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:27:44	Read	Finished read.
+05/11/2025 06:27:44	Read	Finished.
+05/11/2025 06:27:44	Read	Started.
+05/11/2025 06:27:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 06:29:07	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:29:09	Read	Finished read.
+05/11/2025 06:29:09	Read	Finished.
+05/11/2025 06:29:09	Read	Started.
+05/11/2025 06:29:09	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 06:30:30	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:30:32	Read	Finished read.
+05/11/2025 06:30:32	Read	Finished.
+05/11/2025 06:30:32	Read	Started.
+05/11/2025 06:30:32	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 06:31:54	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:31:56	Read	Finished read.
+05/11/2025 06:31:56	Read	Finished.
+05/11/2025 06:31:56	Cycle	Started cycle remaining delay of 00:01:44. Scheduled to resume at 05/11/2025 06:33:40.
+05/11/2025 06:33:40	Cycle	Started cycle 84 out of 91.
+05/11/2025 06:33:40	Shake	Started.
+05/11/2025 06:33:40	Shake	Shaking for 200 seconds.
+05/11/2025 06:37:06	Shake	Finished.
+05/11/2025 06:37:06	Read	Started.
+05/11/2025 06:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 06:37:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:37:44	Read	Finished read.
+05/11/2025 06:37:44	Read	Finished.
+05/11/2025 06:37:44	Read	Started.
+05/11/2025 06:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 06:39:04	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:39:06	Read	Finished read.
+05/11/2025 06:39:06	Read	Finished.
+05/11/2025 06:39:06	Read	Started.
+05/11/2025 06:39:06	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 06:40:20	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:40:22	Read	Finished read.
+05/11/2025 06:40:22	Read	Finished.
+05/11/2025 06:40:22	Read	Started.
+05/11/2025 06:40:22	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 06:41:37	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:41:39	Read	Finished read.
+05/11/2025 06:41:39	Read	Finished.
+05/11/2025 06:41:39	Cycle	Started cycle remaining delay of 00:02:01. Scheduled to resume at 05/11/2025 06:43:40.
+05/11/2025 06:43:40	Cycle	Started cycle 85 out of 91.
+05/11/2025 06:43:40	Shake	Started.
+05/11/2025 06:43:40	Shake	Shaking for 200 seconds.
+05/11/2025 06:47:06	Shake	Finished.
+05/11/2025 06:47:06	Read	Started.
+05/11/2025 06:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 06:47:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:47:44	Read	Finished read.
+05/11/2025 06:47:44	Read	Finished.
+05/11/2025 06:47:44	Read	Started.
+05/11/2025 06:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 06:49:04	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:49:06	Read	Finished read.
+05/11/2025 06:49:06	Read	Finished.
+05/11/2025 06:49:06	Read	Started.
+05/11/2025 06:49:06	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 06:50:22	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:50:24	Read	Finished read.
+05/11/2025 06:50:24	Read	Finished.
+05/11/2025 06:50:24	Read	Started.
+05/11/2025 06:50:24	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 06:51:38	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:51:40	Read	Finished read.
+05/11/2025 06:51:40	Read	Finished.
+05/11/2025 06:51:40	Cycle	Started cycle remaining delay of 00:01:59. Scheduled to resume at 05/11/2025 06:53:40.
+05/11/2025 06:53:40	Cycle	Started cycle 86 out of 91.
+05/11/2025 06:53:40	Shake	Started.
+05/11/2025 06:53:40	Shake	Shaking for 200 seconds.
+05/11/2025 06:57:06	Shake	Finished.
+05/11/2025 06:57:06	Read	Started.
+05/11/2025 06:57:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 06:57:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:57:44	Read	Finished read.
+05/11/2025 06:57:44	Read	Finished.
+05/11/2025 06:57:44	Read	Started.
+05/11/2025 06:57:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 06:59:06	Read	Finishing read, waiting for instrument to idle
+05/11/2025 06:59:08	Read	Finished read.
+05/11/2025 06:59:08	Read	Finished.
+05/11/2025 06:59:08	Read	Started.
+05/11/2025 06:59:08	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 07:00:30	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:00:32	Read	Finished read.
+05/11/2025 07:00:32	Read	Finished.
+05/11/2025 07:00:32	Read	Started.
+05/11/2025 07:00:32	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 07:01:49	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:01:51	Read	Finished read.
+05/11/2025 07:01:51	Read	Finished.
+05/11/2025 07:01:51	Cycle	Started cycle remaining delay of 00:01:49. Scheduled to resume at 05/11/2025 07:03:40.
+05/11/2025 07:03:40	Cycle	Started cycle 87 out of 91.
+05/11/2025 07:03:40	Shake	Started.
+05/11/2025 07:03:40	Shake	Shaking for 200 seconds.
+05/11/2025 07:07:06	Shake	Finished.
+05/11/2025 07:07:06	Read	Started.
+05/11/2025 07:07:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 07:07:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:07:44	Read	Finished read.
+05/11/2025 07:07:44	Read	Finished.
+05/11/2025 07:07:44	Read	Started.
+05/11/2025 07:07:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 07:09:06	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:09:08	Read	Finished read.
+05/11/2025 07:09:08	Read	Finished.
+05/11/2025 07:09:08	Read	Started.
+05/11/2025 07:09:08	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 07:10:30	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:10:32	Read	Finished read.
+05/11/2025 07:10:32	Read	Finished.
+05/11/2025 07:10:32	Read	Started.
+05/11/2025 07:10:32	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 07:11:51	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:11:53	Read	Finished read.
+05/11/2025 07:11:53	Read	Finished.
+05/11/2025 07:11:53	Cycle	Started cycle remaining delay of 00:01:46. Scheduled to resume at 05/11/2025 07:13:40.
+05/11/2025 07:13:40	Cycle	Started cycle 88 out of 91.
+05/11/2025 07:13:40	Shake	Started.
+05/11/2025 07:13:40	Shake	Shaking for 200 seconds.
+05/11/2025 07:17:06	Shake	Finished.
+05/11/2025 07:17:06	Read	Started.
+05/11/2025 07:17:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 07:17:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:17:44	Read	Finished read.
+05/11/2025 07:17:44	Read	Finished.
+05/11/2025 07:17:44	Read	Started.
+05/11/2025 07:17:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 07:19:06	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:19:08	Read	Finished read.
+05/11/2025 07:19:08	Read	Finished.
+05/11/2025 07:19:08	Read	Started.
+05/11/2025 07:19:08	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 07:20:52	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:20:54	Read	Finished read.
+05/11/2025 07:20:54	Read	Finished.
+05/11/2025 07:20:54	Read	Started.
+05/11/2025 07:20:54	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 07:22:09	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:22:11	Read	Finished read.
+05/11/2025 07:22:11	Read	Finished.
+05/11/2025 07:22:11	Cycle	Started cycle remaining delay of 00:01:29. Scheduled to resume at 05/11/2025 07:23:40.
+05/11/2025 07:23:40	Cycle	Started cycle 89 out of 91.
+05/11/2025 07:23:40	Shake	Started.
+05/11/2025 07:23:40	Shake	Shaking for 200 seconds.
+05/11/2025 07:27:06	Shake	Finished.
+05/11/2025 07:27:06	Read	Started.
+05/11/2025 07:27:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 07:27:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:27:44	Read	Finished read.
+05/11/2025 07:27:44	Read	Finished.
+05/11/2025 07:27:44	Read	Started.
+05/11/2025 07:27:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 07:29:03	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:29:05	Read	Finished read.
+05/11/2025 07:29:05	Read	Finished.
+05/11/2025 07:29:05	Read	Started.
+05/11/2025 07:29:05	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 07:30:20	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:30:22	Read	Finished read.
+05/11/2025 07:30:22	Read	Finished.
+05/11/2025 07:30:22	Read	Started.
+05/11/2025 07:30:22	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 07:31:39	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:31:41	Read	Finished read.
+05/11/2025 07:31:41	Read	Finished.
+05/11/2025 07:31:41	Cycle	Started cycle remaining delay of 00:01:59. Scheduled to resume at 05/11/2025 07:33:40.
+05/11/2025 07:33:40	Cycle	Started cycle 90 out of 91.
+05/11/2025 07:33:40	Shake	Started.
+05/11/2025 07:33:40	Shake	Shaking for 200 seconds.
+05/11/2025 07:37:06	Shake	Finished.
+05/11/2025 07:37:06	Read	Started.
+05/11/2025 07:37:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 07:37:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:37:44	Read	Finished read.
+05/11/2025 07:37:44	Read	Finished.
+05/11/2025 07:37:44	Read	Started.
+05/11/2025 07:37:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 07:38:59	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:39:01	Read	Finished read.
+05/11/2025 07:39:01	Read	Finished.
+05/11/2025 07:39:01	Read	Started.
+05/11/2025 07:39:01	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 07:40:16	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:40:18	Read	Finished read.
+05/11/2025 07:40:18	Read	Finished.
+05/11/2025 07:40:18	Read	Started.
+05/11/2025 07:40:18	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 07:41:32	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:41:34	Read	Finished read.
+05/11/2025 07:41:34	Read	Finished.
+05/11/2025 07:41:34	Cycle	Started cycle remaining delay of 00:02:06. Scheduled to resume at 05/11/2025 07:43:40.
+05/11/2025 07:43:40	Cycle	Started cycle 91 out of 91.
+05/11/2025 07:43:40	Shake	Started.
+05/11/2025 07:43:40	Shake	Shaking for 200 seconds.
+05/11/2025 07:47:06	Shake	Finished.
+05/11/2025 07:47:06	Read	Started.
+05/11/2025 07:47:06	Read	Starting experiment "OD700_Loop" section "Plate1" read.
+05/11/2025 07:47:42	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:47:44	Read	Finished read.
+05/11/2025 07:47:44	Read	Finished.
+05/11/2025 07:47:44	Read	Started.
+05/11/2025 07:47:44	Read	Starting experiment "GFP500_Loop" section "Plate1" read.
+05/11/2025 07:49:00	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:49:02	Read	Finished read.
+05/11/2025 07:49:02	Read	Finished.
+05/11/2025 07:49:02	Read	Started.
+05/11/2025 07:49:02	Read	Starting experiment "GFP750_Loop" section "Plate1" read.
+05/11/2025 07:50:18	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:50:20	Read	Finished read.
+05/11/2025 07:50:20	Read	Finished.
+05/11/2025 07:50:20	Read	Started.
+05/11/2025 07:50:20	Read	Starting experiment "GFP1000_Loop" section "Plate1" read.
+05/11/2025 07:51:34	Read	Finishing read, waiting for instrument to idle
+05/11/2025 07:51:36	Read	Finished read.
+05/11/2025 07:51:36	Read	Finished.
+05/11/2025 07:51:36	Cycle	Finished.
+05/11/2025 07:51:46		Workflow finished

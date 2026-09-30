@@ -1,0 +1,18 @@
+__pycache__/
+.python-version
+*.egg-info/
+.venv/
+venv/
+
+img/
+
+.vscode/
+.metadata_cache/
+# nb/out/
+# nb/titration_75/out/
+
+*_plan.md
+
+seq/out/
+
+CLAUDE.md
